@@ -1,106 +1,59 @@
-# Mini Database System — C++
+# File-Based Student CRUD Database System (C++)
 
-A menu-driven Mini Database System built with **C++17**, demonstrating **OOP, STL, CRUD operations, file handling, sorting, CSV export, and database statistics**.
+A lightweight, high-performance console-driven relational CRUD database simulator written in clean C++17. The program saves data records using sequential plain-text file streaming serialization frameworks, serving as a clean demo model for standard persistent data management operations without third-party external driver overhead.
 
-## Features
-- Insert, Search, Update and Delete student records
-- Persistent storage in `data/database.txt`
-- Duplicate ID and input validation
-- Display all records
-- Sort by ID or name
-- Export records to CSV
-- Total records, average age and branch-wise statistics
-- Modular `.h` / `.cpp` architecture
+## 🚀 Features
 
-## Technologies
-C++17 • OOP • STL (`vector`, `algorithm`, `map`) • File Handling • CMake • Git/GitHub
+- **Create**: Add a record with unique identification validation checkpoints (prevents duplicate ID collisions).
+- **Read**: Formatted database scans with structured table formatting or specific primary key single index inquiries.
+- **Update**: Find specific file objects and modify metadata attributes seamlessly.
+- **Delete**: Safely drop individual index nodes from flat storage via a compaction dynamic memory filter strategy.
+- **Data Persistence**: Automatic serialization/deserialization into stable `.txt` configurations.
+- **Robust CLI Parsing**: Clears validation failures automatically when unexpected entry formats are inserted.
 
-## Structure
+## 📂 Core Architecture Diagram
+
 ```text
-Mini-Database-System-CPP/
-├── include/          # Header files
-├── src/              # C++ implementation files
-├── data/             # Persistent database
-├── exports/          # CSV export
-├── screenshots/      # Optional terminal screenshots
-├── README.md
-├── CMakeLists.txt
-├── LICENSE
-└── .gitignore
+       [ Terminal CLI View Main Loop (main.cpp) ]
+                          │
+            Reads/Writes Structured Data
+                          ▼
+        [ Database Engine Controller (Database.cpp) ]
+                          │
+       Performs Serialization / Memory Management
+                          ▼
+        [ Hard Drive Persistence (students_db.txt) ]
 ```
 
-## Build with g++
+## 🛠️ Build and Compilation Instructions
+
+Ensure you have a C++17 compliant compiler installed (`gcc`, `clang`, or MSVC) along with CMake.
+
+### Standard Build:
 ```bash
-g++ -std=c++17 -Iinclude src/main.cpp src/Student.cpp src/Database.cpp -o MiniDatabase
+# Clone the project directory 
+git clone https://github.com
+cd YOUR_REPOSITORY_NAME
+
+# Generate internal build system directories
+mkdir build && cd build
+cmake ..
+
+# Run target platform project compilations
+cmake --build .
 ```
-Run on Windows:
-```powershell
-.\MiniDatabase.exe
-```
-Run on Linux/macOS:
+
+### Running the Application executable binary:
 ```bash
-./MiniDatabase
+# Windows
+StudentCRUD.exe
+
+# Linux & macOS
+./StudentCRUD
 ```
 
-## Build with CMake
-```bash
-cmake -S . -B build
-cmake --build build
-```
-
-## Menu
-```text
-1. Insert Student
-2. Search Student
-3. Update Student
-4. Delete Student
-5. Display All Students
-6. Sort by ID
-7. Sort by Name
-8. Export to CSV
-9. Database Statistics
-0. Exit
-```
-
-## Sample Data
-```text
-101,Amit Kumar,20,CSE
-102,Priya Sharma,21,IT
-103,Rahul Verma,19,AI
-104,Neha Gupta,22,ECE
-105,Sumit Kumar,20,CSE
-106,Anjali Singh,21,IT
-```
-
-## OOP & STL Concepts
-- Encapsulation through private student data
-- Constructors, getters and setters
-- `vector<Student>` for record storage
-- `sort()` for ordering
-- `remove_if()` + `erase()` for deletion
-- `map` for branch statistics
-- Serialization/deserialization for file persistence
-
-## Complexity
-| Operation | Complexity |
-|---|---:|
-| Insert | O(n) |
-| Search | O(n) |
-| Update | O(n) |
-| Delete | O(n) |
-| Sort   | O(nlogn) |
-
-## Future Enhancements
-- Record indexing / faster search
-- Authentication and roles
-- Multiple tables
-- Transactions and rollback
-- SQLite storage
-- Unit tests
-- SQL-like commands
-
-## Author
-**Sumit Kumar** — Computer Science & Engineering
-
-## License
-MIT License
+## 📋 Technology Components Used
+- **Language Stack**: C++17 Standard
+- **File Utilities**: `<fstream>` (`std::ifstream`, `std::ofstream`)
+- **Memory Sequences**: `<vector>`, `<algorithm>` 
+- **System Automation**: CMake System Tools (v3.10+)
