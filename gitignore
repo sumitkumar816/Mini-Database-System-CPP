@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.obj
+*.o
+build/
+.vscode/
+students_db.txt
