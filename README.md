@@ -1,59 +1,24 @@
-# File-Based Student CRUD Database System (C++)
+# Single-File Student CRUD Database System (C++)
 
-A lightweight, high-performance console-driven relational CRUD database simulator written in clean C++17. The program saves data records using sequential plain-text file streaming serialization frameworks, serving as a clean demo model for standard persistent data management operations without third-party external driver overhead.
+A lightweight, high-performance console-driven relational CRUD database simulator written in clean C++17. The program saves data records using sequential plain-text file streaming serialization, serving as a clean demo model for standard persistent data management operations without build tool dependencies or external overhead.
 
 ## 🚀 Features
+- **Create**: Add records with uniqueness safety check loops.
+- **Read**: View continuous data listings via clean grid arrays.
+- **Update**: Edit row metrics directly using an index mapping check.
+- **Delete**: Drop individual objects cleanly using smart system vector cleanup.
+- **Zero Configuration**: Contains everything in a single, compilation-ready `main.cpp` file.
 
-- **Create**: Add a record with unique identification validation checkpoints (prevents duplicate ID collisions).
-- **Read**: Formatted database scans with structured table formatting or specific primary key single index inquiries.
-- **Update**: Find specific file objects and modify metadata attributes seamlessly.
-- **Delete**: Safely drop individual index nodes from flat storage via a compaction dynamic memory filter strategy.
-- **Data Persistence**: Automatic serialization/deserialization into stable `.txt` configurations.
-- **Robust CLI Parsing**: Clears validation failures automatically when unexpected entry formats are inserted.
+## 🛠️ How to Compile and Run in VS Code
 
-## 📂 Core Architecture Diagram
+1. Install the **C/C++ Extension** by Microsoft inside VS Code.
+2. Open your terminal inside VS Code (`Ctrl + \``) and compile the project using the single command below:
 
-```text
-       [ Terminal CLI View Main Loop (main.cpp) ]
-                          │
-            Reads/Writes Structured Data
-                          ▼
-        [ Database Engine Controller (Database.cpp) ]
-                          │
-       Performs Serialization / Memory Management
-                          ▼
-        [ Hard Drive Persistence (students_db.txt) ]
-```
-
-## 🛠️ Build and Compilation Instructions
-
-Ensure you have a C++17 compliant compiler installed (`gcc`, `clang`, or MSVC) along with CMake.
-
-### Standard Build:
 ```bash
-# Clone the project directory 
-git clone https://github.com
-cd YOUR_REPOSITORY_NAME
-
-# Generate internal build system directories
-mkdir build && cd build
-cmake ..
-
-# Run target platform project compilations
-cmake --build .
+g++ -std=c++17 main.cpp -o app.exe
 ```
 
-### Running the Application executable binary:
+3. Run your program binary executable:
 ```bash
-# Windows
-StudentCRUD.exe
-
-# Linux & macOS
-./StudentCRUD
+./app.exe
 ```
-
-## 📋 Technology Components Used
-- **Language Stack**: C++17 Standard
-- **File Utilities**: `<fstream>` (`std::ifstream`, `std::ofstream`)
-- **Memory Sequences**: `<vector>`, `<algorithm>` 
-- **System Automation**: CMake System Tools (v3.10+)
