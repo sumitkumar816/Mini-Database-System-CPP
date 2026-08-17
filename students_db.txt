@@ -1,0 +1,1200 @@
+101,Aarav Singh,CSE,B.Tech,6.50
+102,Vivian Patel,CSE,B.Tech,6.51
+103,Aditya Shah,CSE,B.Tech,6.52
+104,Vihaan Mishra,CSE,B.Tech,6.53
+105,Arjun Tiwari,CSE,B.Tech,6.54
+106,Sai Jha,CSE,B.Tech,6.55
+107,Reyansh Reddy,CSE,B.Tech,6.56
+108,Krishna Nair,CSE,B.Tech,6.57
+109,Ishaan Joshi,CSE,B.Tech,6.58
+110,Shaurya Rao,CSE,B.Tech,6.59
+111,Aryan Sinha,CSE,B.Tech,6.60
+112,Ayush Saxena,CSE,B.Tech,6.61
+113,Rudrud Choudhury,CSE,B.Tech,6.62
+114,Ansh Das,CSE,B.Tech,6.63
+115,Kabir Banerjee,CSE,B.Tech,6.64
+116,Aanya Chatterjee,CSE,B.Tech,6.65
+117,Diya Mehta,CSE,B.Tech,6.66
+118,Priya Yadav,CSE,B.Tech,6.67
+119,Ananya Malhotra,CSE,B.Tech,6.68
+120,Aadhya Kapoor,CSE,B.Tech,6.69
+121,Kavya Chawla,CSE,B.Tech,6.70
+122,Avani Bhasin,CSE,B.Tech,6.71
+123,Ishita Gill,CSE,B.Tech,6.72
+124,Riya Puri,CSE,B.Tech,6.73
+125,Sneha Pandey,CSE,B.Tech,6.74
+126,Pooja Pathak,CSE,B.Tech,6.75
+127,Rahul Sharma,CSE,B.Tech,6.76
+128,Amit Verma,CSE,B.Tech,6.77
+129,Rohan Gupta,CSE,B.Tech,6.78
+130,Vikram Kumar,CSE,B.Tech,6.79
+131,Aarav Singh,CSE,B.Tech,6.80
+132,Vivaan Patel,CSE,B.Tech,6.81
+133,Aditya Shah,CSE,B.Tech,6.82
+134,Vihaan Mishra,CSE,B.Tech,6.83
+135,Arjun Tiwari,CSE,B.Tech,6.84
+136,Sai Jha,CSE,B.Tech,6.85
+137,Reyansh Reddy,CSE,B.Tech,6.86
+138,Krishna Nair,CSE,B.Tech,6.87
+139,Ishaan Joshi,CSE,B.Tech,6.88
+140,Shaurya Rao,CSE,B.Tech,6.89
+141,Aryan Sinha,CSE,B.Tech,6.90
+142,Ayush Saxena,CSE,B.Tech,6.91
+143,Rudrud Choudhury,CSE,B.Tech,6.92
+144,Ansh Das,CSE,B.Tech,6.93
+145,Kabir Banerjee,CSE,B.Tech,6.94
+146,Aanya Chatterjee,CSE,B.Tech,6.95
+147,Diya Mehta,CSE,B.Tech,6.96
+148,Priya Yadav,CSE,B.Tech,6.97
+149,Ananya Malhotra,CSE,B.Tech,6.98
+150,Aadhya Kapoor,CSE,B.Tech,6.99
+151,Kavya Chawla,CSE,B.Tech,7.00
+152,Avani Bhasin,CSE,B.Tech,7.01
+153,Ishita Gill,CSE,B.Tech,7.02
+154,Riya Puri,CSE,B.Tech,7.03
+155,Sneha Pandey,CSE,B.Tech,7.04
+156,Pooja Pathak,CSE,B.Tech,7.05
+157,Rahul Sharma,CSE,B.Tech,7.06
+158,Amit Verma,CSE,B.Tech,7.07
+159,Rohan Gupta,CSE,B.Tech,7.08
+160,Vikram Kumar,CSE,B.Tech,7.09
+161,Aarav Singh,CSE,B.Tech,7.10
+162,Vivaan Patel,CSE,B.Tech,7.11
+163,Aditya Shah,CSE,B.Tech,7.12
+164,Vihaan Mishra,CSE,B.Tech,7.13
+165,Arjun Tiwari,CSE,B.Tech,7.14
+166,Sai Jha,CSE,B.Tech,7.15
+167,Reyansh Reddy,CSE,B.Tech,7.16
+168,Krishna Nair,CSE,B.Tech,7.17
+169,Ishaan Joshi,CSE,B.Tech,7.18
+170,Shaurya Rao,CSE,B.Tech,7.19
+171,Aryan Sinha,CSE,B.Tech,7.20
+172,Ayush Saxena,CSE,B.Tech,7.21
+173,Rudrud Choudhury,CSE,B.Tech,7.22
+174,Ansh Das,CSE,B.Tech,7.23
+175,Kabir Banerjee,CSE,B.Tech,7.24
+176,Aanya Chatterjee,CSE,B.Tech,7.25
+177,Diya Mehta,CSE,B.Tech,7.26
+178,Priya Yadav,CSE,B.Tech,7.27
+179,Ananya Malhotra,CSE,B.Tech,7.28
+180,Aadhya Kapoor,CSE,B.Tech,7.29
+181,Kavya Chawla,CSE,B.Tech,7.30
+182,Avani Bhasin,CSE,B.Tech,7.31
+183,Ishita Gill,CSE,B.Tech,7.32
+184,Riya Puri,CSE,B.Tech,7.33
+185,Sneha Pandey,CSE,B.Tech,7.34
+186,Pooja Pathak,CSE,B.Tech,7.35
+187,Rahul Sharma,CSE,B.Tech,7.36
+188,Amit Verma,CSE,B.Tech,7.37
+189,Rohan Gupta,CSE,B.Tech,7.38
+190,Vikram Kumar,CSE,B.Tech,7.39
+191,Aarav Singh,CSE,B.Tech,7.40
+192,Vivaan Patel,CSE,B.Tech,7.41
+193,Aditya Shah,CSE,B.Tech,7.42
+194,Vihaan Mishra,CSE,B.Tech,7.43
+195,Arjun Tiwari,CSE,B.Tech,7.44
+196,Sai Jha,CSE,B.Tech,7.45
+197,Reyansh Das,CSE,M.Tech,7.96
+198,Krishna Banerjee,CSE,M.Tech,7.97
+199,Ishaan Chatterjee,CSE,M.Tech,7.98
+200,Shaurya Mehta,CSE,M.Tech,7.99
+201,Aryan Yadav,CSE,M.Tech,8.00
+202,Ayush Malhotra,CSE,M.Tech,8.01
+203,Rudrud Kapoor,CSE,M.Tech,8.02
+204,Ansh Chawla,CSE,M.Tech,8.03
+205,Kabir Bhasin,CSE,M.Tech,8.04
+206,Aanya Gill,CSE,M.Tech,8.05
+207,Diya Puri,CSE,M.Tech,8.06
+208,Priya Pandey,CSE,M.Tech,8.07
+209,Ananya Pathak,CSE,M.Tech,8.08
+210,Aadhya Sharma,CSE,M.Tech,8.09
+211,Kavya Verma,CSE,M.Tech,8.10
+212,Avani Gupta,CSE,M.Tech,8.11
+213,Ishita Kumar,CSE,M.Tech,8.12
+214,Riya Singh,CSE,M.Tech,8.13
+215,Sneha Patel,CSE,M.Tech,8.14
+216,Pooja Shah,CSE,M.Tech,8.15
+217,Rahul Mishra,CSE,M.Tech,8.16
+218,Amit Tiwari,CSE,M.Tech,8.17
+219,Rohan Jha,CSE,M.Tech,8.18
+220,Vikram Reddy,CSE,M.Tech,8.19
+221,Aarav Singh,CSE-AI,B.Tech,7.70
+222,Vivaan Patel,CSE-AI,B.Tech,7.71
+223,Aditya Shah,CSE-AI,B.Tech,7.72
+224,Vihaan Mishra,CSE-AI,B.Tech,7.73
+225,Arjun Tiwari,CSE-AI,B.Tech,7.74
+226,Sai Jha,CSE-AI,B.Tech,7.75
+227,Reyansh Reddy,CSE-AI,B.Tech,7.76
+228,Krishna Nair,CSE-AI,B.Tech,7.77
+229,Ishaan Joshi,CSE-AI,B.Tech,7.78
+230,Shaurya Rao,CSE-AI,B.Tech,7.79
+231,Aryan Sinha,CSE-AI,B.Tech,7.80
+232,Ayush Saxena,CSE-AI,B.Tech,7.81
+233,Rudrud Choudhury,CSE-AI,B.Tech,7.82
+234,Ansh Das,CSE-AI,B.Tech,7.83
+235,Kabir Banerjee,CSE-AI,B.Tech,7.84
+236,Aanya Chatterjee,CSE-AI,B.Tech,7.85
+237,Diya Mehta,CSE-AI,B.Tech,7.86
+238,Priya Yadav,CSE-AI,B.Tech,7.87
+239,Ananya Malhotra,CSE-AI,B.Tech,7.88
+240,Aadhya Kapoor,CSE-AI,B.Tech,7.89
+241,Kavya Chawla,CSE-AI,B.Tech,7.90
+242,Avani Bhasin,CSE-AI,B.Tech,7.91
+243,Ishita Gill,CSE-AI,B.Tech,7.92
+244,Riya Puri,CSE-AI,B.Tech,7.93
+245,Sneha Pandey,CSE-AI,B.Tech,7.94
+246,Pooja Pathak,CSE-AI,B.Tech,7.95
+247,Rahul Sharma,CSE-AI,B.Tech,7.96
+248,Amit Verma,CSE-AI,B.Tech,7.97
+249,Rohan Gupta,CSE-AI,B.Tech,7.98
+250,Vikram Kumar,CSE-AI,B.Tech,7.99
+251,Aarav Singh,CSE-AI,B.Tech,8.00
+252,Vivaan Patel,CSE-AI,B.Tech,8.01
+253,Aditya Shah,CSE-AI,B.Tech,8.02
+254,Vihaan Mishra,CSE-AI,B.Tech,8.03
+255,Arjun Tiwari,CSE-AI,B.Tech,8.04
+256,Sai Jha,CSE-AI,B.Tech,8.05
+257,Reyansh Reddy,CSE-AI,B.Tech,8.06
+258,Krishna Nair,CSE-AI,B.Tech,8.07
+259,Ishaan Joshi,CSE-AI,B.Tech,8.08
+260,Shaurya Rao,CSE-AI,B.Tech,8.09
+261,Aryan Sinha,CSE-AI,B.Tech,8.10
+262,Ayush Saxena,CSE-AI,B.Tech,8.11
+263,Rudrud Choudhury,CSE-AI,B.Tech,8.12
+264,Ansh Das,CSE-AI,B.Tech,8.13
+265,Kabir Banerjee,CSE-AI,B.Tech,8.14
+266,Aanya Chatterjee,CSE-AI,B.Tech,8.15
+267,Diya Mehta,CSE-AI,B.Tech,8.16
+268,Priya Yadav,CSE-AI,B.Tech,8.17
+269,Ananya Malhotra,CSE-AI,B.Tech,8.18
+270,Aadhya Kapoor,CSE-AI,B.Tech,8.19
+271,Kavya Chawla,CSE-AI,B.Tech,8.20
+272,Avani Bhasin,CSE-AI,B.Tech,8.21
+273,Ishita Gill,CSE-AI,B.Tech,8.22
+274,Riya Puri,CSE-AI,B.Tech,8.23
+275,Sneha Pandey,CSE-AI,B.Tech,8.24
+276,Pooja Pathak,CSE-AI,B.Tech,8.25
+277,Rahul Sharma,CSE-AI,B.Tech,8.26
+278,Amit Verma,CSE-AI,B.Tech,8.27
+279,Rohan Gupta,CSE-AI,B.Tech,8.28
+280,Vikram Kumar,CSE-AI,B.Tech,8.29
+281,Aarav Singh,CSE-AI,B.Tech,8.30
+282,Vivaan Patel,CSE-AI,B.Tech,8.31
+283,Aditya Shah,CSE-AI,B.Tech,8.32
+284,Vihaan Mishra,CSE-AI,B.Tech,8.33
+285,Arjun Tiwari,CSE-AI,B.Tech,8.34
+286,Sai Jha,CSE-AI,B.Tech,8.35
+287,Reyansh Reddy,CSE-AI,B.Tech,8.36
+288,Krishna Nair,CSE-AI,B.Tech,8.37
+289,Ishaan Joshi,CSE-AI,B.Tech,8.38
+290,Shaurya Rao,CSE-AI,B.Tech,8.39
+291,Aryan Sinha,CSE-AI,B.Tech,8.40
+292,Ayush Saxena,CSE-AI,B.Tech,8.41
+293,Rudrud Choudhury,CSE-AI,B.Tech,8.42
+294,Ansh Das,CSE-AI,B.Tech,8.43
+295,Kabir Banerjee,CSE-AI,B.Tech,8.44
+296,Aanya Chatterjee,CSE-AI,B.Tech,8.45
+297,Diya Mehta,CSE-AI,B.Tech,8.46
+298,Priya Yadav,CSE-AI,B.Tech,8.47
+299,Ananya Malhotra,CSE-AI,B.Tech,8.48
+300,Aadhya Kapoor,CSE-AI,B.Tech,8.49
+301,Kavya Chawla,CSE-AI,B.Tech,8.50
+302,Avani Bhasin,CSE-AI,B.Tech,8.51
+303,Ishita Gill,CSE-AI,B.Tech,8.52
+304,Riya Puri,CSE-AI,B.Tech,8.53
+305,Sneha Pandey,CSE-AI,B.Tech,8.54
+306,Pooja Pathak,CSE-AI,B.Tech,8.55
+307,Rahul Sharma,CSE-AI,B.Tech,8.56
+308,Amit Verma,CSE-AI,B.Tech,8.57
+309,Rohan Gupta,CSE-AI,B.Tech,8.58
+310,Vikram Kumar,CSE-AI,B.Tech,8.59
+311,Aarav Singh,CSE-AI,B.Tech,8.60
+312,Vivaan Patel,CSE-AI,B.Tech,8.61
+313,Aditya Shah,CSE-AI,B.Tech,8.62
+314,Vihaan Mishra,CSE-AI,B.Tech,8.63
+315,Arjun Tiwari,CSE-AI,B.Tech,8.64
+316,Sai Jha,CSE-AI,B.Tech,8.65
+317,Reyansh Das,CSE-AI,M.Tech,9.16
+318,Krishna Banerjee,CSE-AI,M.Tech,9.17
+319,Ishaan Chatterjee,CSE-AI,M.Tech,9.18
+320,Shaurya Mehta,CSE-AI,M.Tech,9.19
+321,Aryan Yadav,CSE-AI,M.Tech,9.20
+322,Ayush Malhotra,CSE-AI,M.Tech,9.21
+323,Rudrud Kapoor,CSE-AI,M.Tech,9.22
+324,Ansh Chawla,CSE-AI,M.Tech,9.23
+325,Kabir Bhasin,CSE-AI,M.Tech,9.24
+326,Aanya Gill,CSE-AI,M.Tech,9.25
+327,Diya Puri,CSE-AI,M.Tech,9.26
+328,Priya Pandey,CSE-AI,M.Tech,9.27
+329,Ananya Pathak,CSE-AI,M.Tech,9.28
+330,Aadhya Sharma,CSE-AI,M.Tech,9.29
+331,Kavya Verma,CSE-AI,M.Tech,9.30
+332,Avani Gupta,CSE-AI,M.Tech,9.31
+333,Ishita Kumar,CSE-AI,M.Tech,9.32
+334,Riya Singh,CSE-AI,M.Tech,9.33
+335,Sneha Patel,CSE-AI,M.Tech,9.34
+336,Pooja Shah,CSE-AI,M.Tech,9.35
+337,Rahul Mishra,CSE-AI,M.Tech,9.36
+338,Amit Tiwari,CSE-AI,M.Tech,9.37
+339,Rohan Jha,CSE-AI,M.Tech,9.38
+340,Vikram Reddy,CSE-AI,M.Tech,9.39
+341,Aarav Singh,CSE-AIML,B.Tech,8.90
+342,Vivaan Patel,CSE-AIML,B.Tech,8.91
+343,Aditya Shah,CSE-AIML,B.Tech,8.92
+344,Vihaan Mishra,CSE-AIML,B.Tech,8.93
+345,Arjun Tiwari,CSE-AIML,B.Tech,8.94
+346,Sai Jha,CSE-AIML,B.Tech,8.95
+347,Reyansh Reddy,CSE-AIML,B.Tech,8.96
+348,Krishna Nair,CSE-AIML,B.Tech,8.97
+349,Ishaan Joshi,CSE-AIML,B.Tech,8.98
+350,Shaurya Rao,CSE-AIML,B.Tech,8.99
+351,Aryan Sinha,CSE-AIML,B.Tech,9.00
+352,Ayush Saxena,CSE-AIML,B.Tech,9.01
+353,Rudrud Choudhury,CSE-AIML,B.Tech,9.02
+354,Ansh Das,CSE-AIML,B.Tech,9.03
+355,Kabir Banerjee,CSE-AIML,B.Tech,9.04
+356,Aanya Chatterjee,CSE-AIML,B.Tech,9.05
+357,Diya Mehta,CSE-AIML,B.Tech,9.06
+358,Priya Yadav,CSE-AIML,B.Tech,9.07
+359,Ananya Malhotra,CSE-AIML,B.Tech,9.08
+360,Aadhya Kapoor,CSE-AIML,B.Tech,9.09
+361,Kavya Chawla,CSE-AIML,B.Tech,9.10
+362,Avani Bhasin,CSE-AIML,B.Tech,9.11
+363,Ishita Gill,CSE-AIML,B.Tech,9.12
+364,Riya Puri,CSE-AIML,B.Tech,9.13
+365,Sneha Pandey,CSE-AIML,B.Tech,9.14
+366,Pooja Pathak,CSE-AIML,B.Tech,9.15
+367,Rahul Sharma,CSE-AIML,B.Tech,9.16
+368,Amit Verma,CSE-AIML,B.Tech,9.17
+369,Rohan Gupta,CSE-AIML,B.Tech,9.18
+370,Vikram Kumar,CSE-AIML,B.Tech,9.19
+371,Aarav Singh,CSE-AIML,B.Tech,9.20
+372,Vivaan Patel,CSE-AIML,B.Tech,9.21
+373,Aditya Shah,CSE-AIML,B.Tech,9.22
+374,Vihaan Mishra,CSE-AIML,B.Tech,9.23
+375,Arjun Tiwari,CSE-AIML,B.Tech,9.24
+376,Sai Jha,CSE-AIML,B.Tech,9.25
+377,Reyansh Reddy,CSE-AIML,B.Tech,9.26
+378,Krishna Nair,CSE-AIML,B.Tech,9.27
+379,Ishaan Joshi,CSE-AIML,B.Tech,9.28
+380,Shaurya Rao,CSE-AIML,B.Tech,9.29
+381,Aryan Sinha,CSE-AIML,B.Tech,9.30
+382,Ayush Saxena,CSE-AIML,B.Tech,9.31
+383,Rudrud Choudhury,CSE-AIML,B.Tech,9.32
+384,Ansh Das,CSE-AIML,B.Tech,9.33
+385,Kabir Banerjee,CSE-AIML,B.Tech,9.34
+386,Aanya Chatterjee,CSE-AIML,B.Tech,9.35
+387,Diya Mehta,CSE-AIML,B.Tech,9.36
+388,Priya Yadav,CSE-AIML,B.Tech,9.37
+389,Ananya Malhotra,CSE-AIML,B.Tech,9.38
+390,Aadhya Kapoor,CSE-AIML,B.Tech,9.39
+391,Kavya Chawla,CSE-AIML,B.Tech,9.40
+392,Avani Bhasin,CSE-AIML,B.Tech,9.41
+393,Ishita Gill,CSE-AIML,B.Tech,9.42
+394,Riya Puri,CSE-AIML,B.Tech,9.43
+395,Sneha Pandey,CSE-AIML,B.Tech,9.44
+396,Pooja Pathak,CSE-AIML,B.Tech,9.45
+397,Rahul Sharma,CSE-AIML,B.Tech,9.46
+398,Amit Verma,CSE-AIML,B.Tech,9.47
+399,Rohan Gupta,CSE-AIML,B.Tech,9.48
+400,Vikram Kumar,CSE-AIML,B.Tech,9.49
+401,Aarav Singh,CSE-AIML,B.Tech,6.50
+402,Vivaan Patel,CSE-AIML,B.Tech,6.51
+403,Aditya Shah,CSE-AIML,B.Tech,6.52
+404,Vihaan Mishra,CSE-AIML,B.Tech,6.53
+405,Arjun Tiwari,CSE-AIML,B.Tech,6.54
+406,Sai Jha,CSE-AIML,B.Tech,6.55
+407,Reyansh Reddy,CSE-AIML,B.Tech,6.56
+408,Krishna Nair,CSE-AIML,B.Tech,6.57
+409,Ishaan Joshi,CSE-AIML,B.Tech,6.58
+410,Shaurya Rao,CSE-AIML,B.Tech,6.59
+411,Aryan Sinha,CSE-AIML,B.Tech,6.60
+412,Ayush Saxena,CSE-AIML,B.Tech,6.61
+413,Rudrud Choudhury,CSE-AIML,B.Tech,6.62
+414,Ansh Das,CSE-AIML,B.Tech,6.63
+415,Kabir Banerjee,CSE-AIML,B.Tech,6.64
+416,Aanya Chatterjee,CSE-AIML,B.Tech,6.65
+417,Diya Mehta,CSE-AIML,B.Tech,6.66
+418,Priya Yadav,CSE-AIML,B.Tech,6.67
+419,Ananya Malhotra,CSE-AIML,B.Tech,6.68
+420,Aadhya Kapoor,CSE-AIML,B.Tech,6.69
+421,Kavya Chawla,CSE-AIML,B.Tech,6.70
+422,Avani Bhasin,CSE-AIML,B.Tech,6.71
+423,Ishita Gill,CSE-AIML,B.Tech,6.72
+424,Riya Puri,CSE-AIML,B.Tech,6.73
+425,Sneha Pandey,CSE-AIML,B.Tech,6.74
+426,Pooja Pathak,CSE-AIML,B.Tech,6.75
+427,Rahul Sharma,CSE-AIML,B.Tech,6.76
+428,Amit Verma,CSE-AIML,B.Tech,6.77
+429,Rohan Gupta,CSE-AIML,B.Tech,6.78
+430,Vikram Kumar,CSE-AIML,B.Tech,6.79
+431,Aarav Singh,CSE-AIML,B.Tech,6.80
+432,Vivaan Patel,CSE-AIML,B.Tech,6.81
+433,Aditya Shah,CSE-AIML,B.Tech,6.82
+434,Vihaan Mishra,CSE-AIML,B.Tech,6.83
+435,Arjun Tiwari,CSE-AIML,B.Tech,6.84
+436,Sai Jha,CSE-AIML,B.Tech,6.85
+437,Reyansh Das,CSE-AIML,M.Tech,7.86
+438,Krishna Banerjee,CSE-AIML,M.Tech,7.87
+439,Ishaan Chatterjee,CSE-AIML,M.Tech,7.88
+440,Shaurya Mehta,CSE-AIML,M.Tech,7.89
+441,Aryan Yadav,CSE-AIML,M.Tech,7.90
+442,Ayush Malhotra,CSE-AIML,M.Tech,7.91
+443,Rudrud Kapoor,CSE-AIML,M.Tech,7.92
+444,Ansh Chawla,CSE-AIML,M.Tech,7.93
+445,Kabir Bhasin,CSE-AIML,M.Tech,7.94
+446,Aanya Gill,CSE-AIML,M.Tech,7.95
+447,Diya Puri,CSE-AIML,M.Tech,7.96
+448,Priya Pandey,CSE-AIML,M.Tech,7.97
+449,Ananya Pathak,CSE-AIML,M.Tech,7.98
+450,Aadhya Sharma,CSE-AIML,M.Tech,7.99
+451,Kavya Verma,CSE-AIML,M.Tech,8.00
+452,Avani Gupta,CSE-AIML,M.Tech,8.01
+453,Ishita Kumar,CSE-AIML,M.Tech,8.02
+454,Riya Singh,CSE-AIML,M.Tech,8.03
+455,Sneha Patel,CSE-AIML,M.Tech,8.04
+456,Pooja Shah,CSE-AIML,M.Tech,8.05
+457,Rahul Mishra,CSE-AIML,M.Tech,8.06
+458,Amit Tiwari,CSE-AIML,M.Tech,8.07
+459,Rohan Jha,CSE-AIML,M.Tech,8.08
+460,Vikram Reddy,CSE-AIML,M.Tech,8.09
+461,Aarav Singh,CSE-Data Science,B.Tech,7.10
+462,Vivaan Patel,CSE-Data Science,B.Tech,7.11
+463,Aditya Shah,CSE-Data Science,B.Tech,7.12
+464,Vihaan Mishra,CSE-Data Science,B.Tech,7.13
+465,Arjun Tiwari,CSE-Data Science,B.Tech,7.14
+466,Sai Jha,CSE-Data Science,B.Tech,7.15
+467,Reyansh Reddy,CSE-Data Science,B.Tech,7.16
+468,Krishna Nair,CSE-Data Science,B.Tech,7.17
+469,Ishaan Joshi,CSE-Data Science,B.Tech,7.18
+470,Shaurya Rao,CSE-Data Science,B.Tech,7.19
+471,Aryan Sinha,CSE-Data Science,B.Tech,7.20
+472,Ayush Saxena,CSE-Data Science,B.Tech,7.21
+473,Rudrud Choudhury,CSE-Data Science,B.Tech,7.22
+474,Ansh Das,CSE-Data Science,B.Tech,7.23
+475,Kabir Banerjee,CSE-Data Science,B.Tech,7.24
+476,Aanya Chatterjee,CSE-Data Science,B.Tech,7.25
+477,Diya Mehta,CSE-Data Science,B.Tech,7.26
+478,Priya Yadav,CSE-Data Science,B.Tech,7.27
+479,Ananya Malhotra,CSE-Data Science,B.Tech,7.28
+480,Aadhya Kapoor,CSE-Data Science,B.Tech,7.29
+481,Kavya Chawla,CSE-Data Science,B.Tech,7.30
+482,Avani Bhasin,CSE-Data Science,B.Tech,7.31
+483,Ishita Gill,CSE-Data Science,B.Tech,7.32
+484,Riya Puri,CSE-Data Science,B.Tech,7.33
+485,Sneha Pandey,CSE-Data Science,B.Tech,7.34
+486,Pooja Pathak,CSE-Data Science,B.Tech,7.35
+487,Rahul Sharma,CSE-Data Science,B.Tech,7.36
+488,Amit Verma,CSE-Data Science,B.Tech,7.37
+489,Rohan Gupta,CSE-Data Science,B.Tech,7.38
+490,Vikram Kumar,CSE-Data Science,B.Tech,7.39
+491,Aarav Singh,CSE-Data Science,B.Tech,7.40
+492,Vivaan Patel,CSE-Data Science,B.Tech,7.41
+493,Aditya Shah,CSE-Data Science,B.Tech,7.42
+494,Vihaan Mishra,CSE-Data Science,B.Tech,7.43
+495,Arjun Tiwari,CSE-Data Science,B.Tech,7.44
+496,Sai Jha,CSE-Data Science,B.Tech,7.45
+497,Reyansh Reddy,CSE-Data Science,B.Tech,7.46
+498,Krishna Nair,CSE-Data Science,B.Tech,7.47
+499,Ishaan Joshi,CSE-Data Science,B.Tech,7.48
+500,Shaurya Rao,CSE-Data Science,B.Tech,7.49
+501,Aryan Sinha,CSE-Data Science,B.Tech,7.50
+502,Ayush Saxena,CSE-Data Science,B.Tech,7.51
+503,Rudrud Choudhury,CSE-Data Science,B.Tech,7.52
+504,Ansh Das,CSE-Data Science,B.Tech,7.53
+505,Kabir Banerjee,CSE-Data Science,B.Tech,7.54
+506,Aanya Chatterjee,CSE-Data Science,B.Tech,7.55
+507,Diya Mehta,CSE-Data Science,B.Tech,7.56
+508,Priya Yadav,CSE-Data Science,B.Tech,7.57
+509,Ananya Malhotra,CSE-Data Science,B.Tech,7.58
+510,Aadhya Kapoor,CSE-Data Science,B.Tech,7.59
+511,Kavya Chawla,CSE-Data Science,B.Tech,7.60
+512,Avani Bhasin,CSE-Data Science,B.Tech,7.61
+513,Ishita Gill,CSE-Data Science,B.Tech,7.62
+514,Riya Puri,CSE-Data Science,B.Tech,7.63
+515,Sneha Pandey,CSE-Data Science,B.Tech,7.64
+516,Pooja Pathak,CSE-Data Science,B.Tech,7.65
+517,Rahul Sharma,CSE-Data Science,B.Tech,7.66
+518,Amit Verma,CSE-Data Science,B.Tech,7.67
+519,Rohan Gupta,CSE-Data Science,B.Tech,7.68
+520,Vikram Kumar,CSE-Data Science,B.Tech,7.69
+521,Aarav Singh,CSE-Data Science,B.Tech,7.70
+522,Vivaan Patel,CSE-Data Science,B.Tech,7.71
+523,Aditya Shah,CSE-Data Science,B.Tech,7.72
+524,Vihaan Mishra,CSE-Data Science,B.Tech,7.73
+525,Arjun Tiwari,CSE-Data Science,B.Tech,7.74
+526,Sai Jha,CSE-Data Science,B.Tech,7.75
+527,Reyansh Reddy,CSE-Data Science,B.Tech,7.76
+528,Krishna Nair,CSE-Data Science,B.Tech,7.77
+529,Ishaan Joshi,CSE-Data Science,B.Tech,7.78
+530,Shaurya Rao,CSE-Data Science,B.Tech,7.79
+531,Aryan Sinha,CSE-Data Science,B.Tech,7.80
+532,Ayush Saxena,CSE-Data Science,B.Tech,7.81
+533,Rudrud Choudhury,CSE-Data Science,B.Tech,7.82
+534,Ansh Das,CSE-Data Science,B.Tech,7.83
+535,Kabir Banerjee,CSE-Data Science,B.Tech,7.84
+536,Aanya Chatterjee,CSE-Data Science,B.Tech,7.85
+537,Diya Mehta,CSE-Data Science,B.Tech,7.86
+538,Priya Yadav,CSE-Data Science,B.Tech,7.87
+539,Ananya Malhotra,CSE-Data Science,B.Tech,7.88
+540,Aadhya Kapoor,CSE-Data Science,B.Tech,7.89
+541,Kavya Chawla,CSE-Data Science,B.Tech,7.90
+542,Avani Bhasin,CSE-Data Science,B.Tech,7.91
+543,Ishita Gill,CSE-Data Science,B.Tech,7.92
+544,Riya Puri,CSE-Data Science,B.Tech,7.93
+545,Sneha Pandey,CSE-Data Science,B.Tech,7.94
+546,Pooja Pathak,CSE-Data Science,B.Tech,7.95
+547,Rahul Sharma,CSE-Data Science,B.Tech,7.96
+548,Amit Verma,CSE-Data Science,B.Tech,7.97
+549,Rohan Gupta,CSE-Data Science,B.Tech,7.98
+550,Vikram Kumar,CSE-Data Science,B.Tech,7.99
+551,Aarav Singh,CSE-Data Science,B.Tech,8.00
+552,Vivaan Patel,CSE-Data Science,B.Tech,8.01
+553,Aditya Shah,CSE-Data Science,B.Tech,8.02
+554,Vihaan Mishra,CSE-Data Science,B.Tech,8.03
+555,Arjun Tiwari,CSE-Data Science,B.Tech,8.04
+556,Sai Jha,CSE-Data Science,B.Tech,8.05
+557,Reyansh Das,CSE-Data Science,M.Tech,9.06
+558,Krishna Banerjee,CSE-Data Science,M.Tech,9.07
+559,Ishaan Chatterjee,CSE-Data Science,M.Tech,9.08
+560,Shaurya Mehta,CSE-Data Science,M.Tech,9.09
+561,Aryan Yadav,CSE-Data Science,M.Tech,9.10
+562,Ayush Malhotra,CSE-Data Science,M.Tech,9.11
+563,Rudrud Kapoor,CSE-Data Science,M.Tech,9.12
+564,Ansh Chawla,CSE-Data Science,M.Tech,9.13
+565,Kabir Bhasin,CSE-Data Science,M.Tech,9.14
+566,Aanya Gill,CSE-Data Science,M.Tech,9.15
+567,Diya Puri,CSE-Data Science,M.Tech,9.16
+568,Priya Pandey,CSE-Data Science,M.Tech,9.17
+569,Ananya Pathak,CSE-Data Science,M.Tech,9.18
+570,Aadhya Sharma,CSE-Data Science,M.Tech,9.19
+571,Kavya Verma,CSE-Data Science,M.Tech,9.20
+572,Avani Gupta,CSE-Data Science,M.Tech,9.21
+573,Ishita Kumar,CSE-Data Science,M.Tech,9.22
+574,Riya Singh,CSE-Data Science,M.Tech,9.23
+575,Sneha Patel,CSE-Data Science,M.Tech,9.24
+576,Pooja Shah,CSE-Data Science,M.Tech,9.25
+577,Rahul Mishra,CSE-Data Science,M.Tech,9.26
+578,Amit Tiwari,CSE-Data Science,M.Tech,9.27
+579,Rohan Jha,CSE-Data Science,M.Tech,9.28
+580,Vikram Reddy,CSE-Data Science,M.Tech,9.29
+581,Aarav Singh,Electrical,B.Tech,8.30
+582,Vivaan Patel,Electrical,B.Tech,8.31
+583,Aditya Shah,Electrical,B.Tech,8.32
+584,Vihaan Mishra,Electrical,B.Tech,8.33
+585,Arjun Tiwari,Electrical,B.Tech,8.34
+586,Sai Jha,Electrical,B.Tech,8.35
+587,Reyansh Reddy,Electrical,B.Tech,8.36
+588,Krishna Nair,Electrical,B.Tech,8.37
+589,Ishaan Joshi,Electrical,B.Tech,8.38
+590,Shaurya Rao,Electrical,B.Tech,8.39
+591,Aryan Sinha,Electrical,B.Tech,8.40
+592,Ayush Saxena,Electrical,B.Tech,8.41
+593,Rudrud Choudhury,Electrical,B.Tech,8.42
+594,Ansh Das,Electrical,B.Tech,8.43
+595,Kabir Banerjee,Electrical,B.Tech,8.44
+596,Aanya Chatterjee,Electrical,B.Tech,8.45
+597,Diya Mehta,Electrical,B.Tech,8.46
+598,Priya Yadav,Electrical,B.Tech,8.47
+599,Ananya Malhotra,Electrical,B.Tech,8.48
+600,Aadhya Kapoor,Electrical,B.Tech,8.49
+601,Kavya Chawla,Electrical,B.Tech,8.50
+602,Avani Bhasin,Electrical,B.Tech,8.51
+603,Ishita Gill,Electrical,B.Tech,8.52
+604,Riya Puri,Electrical,B.Tech,8.53
+605,Sneha Pandey,Electrical,B.Tech,8.54
+606,Pooja Pathak,Electrical,B.Tech,8.55
+607,Rahul Sharma,Electrical,B.Tech,8.56
+608,Amit Verma,Electrical,B.Tech,8.57
+609,Rohan Gupta,Electrical,B.Tech,8.58
+610,Vikram Kumar,Electrical,B.Tech,8.59
+611,Aarav Singh,Electrical,B.Tech,8.60
+612,Vivaan Patel,Electrical,B.Tech,8.61
+613,Aditya Shah,Electrical,B.Tech,8.62
+614,Vihaan Mishra,Electrical,B.Tech,8.63
+615,Arjun Tiwari,Electrical,B.Tech,8.64
+616,Sai Jha,Electrical,B.Tech,8.65
+617,Reyansh Reddy,Electrical,B.Tech,8.66
+618,Krishna Nair,Electrical,B.Tech,8.67
+619,Ishaan Joshi,Electrical,B.Tech,8.68
+620,Shaurya Rao,Electrical,B.Tech,8.69
+621,Aryan Sinha,Electrical,B.Tech,8.70
+622,Ayush Saxena,Electrical,B.Tech,8.71
+623,Rudrud Choudhury,Electrical,B.Tech,8.72
+624,Ansh Das,Electrical,B.Tech,8.73
+625,Kabir Banerjee,Electrical,B.Tech,8.74
+626,Aanya Chatterjee,Electrical,B.Tech,8.75
+627,Diya Mehta,Electrical,B.Tech,8.76
+628,Priya Yadav,Electrical,B.Tech,8.77
+629,Ananya Malhotra,Electrical,B.Tech,8.78
+630,Aadhya Kapoor,Electrical,B.Tech,8.79
+631,Kavya Chawla,Electrical,B.Tech,8.80
+632,Avani Bhasin,Electrical,B.Tech,8.81
+633,Ishita Gill,Electrical,B.Tech,8.82
+634,Riya Puri,Electrical,B.Tech,8.83
+635,Sneha Pandey,Electrical,B.Tech,8.84
+636,Pooja Pathak,Electrical,B.Tech,8.85
+637,Rahul Sharma,Electrical,B.Tech,8.86
+638,Amit Verma,Electrical,B.Tech,8.87
+639,Rohan Gupta,Electrical,B.Tech,8.88
+640,Vikram Kumar,Electrical,B.Tech,8.89
+641,Aarav Singh,Electrical,B.Tech,8.90
+642,Vivaan Patel,Electrical,B.Tech,8.91
+643,Aditya Shah,Electrical,B.Tech,8.92
+644,Vihaan Mishra,Electrical,B.Tech,8.93
+645,Arjun Tiwari,Electrical,B.Tech,8.94
+646,Sai Jha,Electrical,B.Tech,8.95
+647,Reyansh Reddy,Electrical,B.Tech,8.96
+648,Krishna Nair,Electrical,B.Tech,8.97
+649,Ishaan Joshi,Electrical,B.Tech,8.98
+650,Shaurya Rao,Electrical,B.Tech,8.99
+651,Aryan Sinha,Electrical,B.Tech,9.00
+652,Ayush Saxena,Electrical,B.Tech,9.01
+653,Rudrud Choudhury,Electrical,B.Tech,9.02
+654,Ansh Das,Electrical,B.Tech,9.03
+655,Kabir Banerjee,Electrical,B.Tech,9.04
+656,Aanya Chatterjee,Electrical,B.Tech,9.05
+657,Diya Mehta,Electrical,B.Tech,9.06
+658,Priya Yadav,Electrical,B.Tech,9.07
+659,Ananya Malhotra,Electrical,B.Tech,9.08
+660,Aadhya Kapoor,Electrical,B.Tech,9.09
+661,Kavya Chawla,Electrical,B.Tech,9.10
+662,Avani Bhasin,Electrical,B.Tech,9.11
+663,Ishita Gill,Electrical,B.Tech,9.12
+664,Riya Puri,Electrical,B.Tech,9.13
+665,Sneha Pandey,Electrical,B.Tech,9.14
+666,Pooja Pathak,Electrical,B.Tech,9.15
+667,Rahul Sharma,Electrical,B.Tech,9.16
+668,Amit Verma,Electrical,B.Tech,9.17
+669,Rohan Gupta,Electrical,B.Tech,9.18
+670,Vikram Kumar,Electrical,B.Tech,9.19
+671,Aarav Singh,Electrical,B.Tech,9.20
+672,Vivaan Patel,Electrical,B.Tech,9.21
+673,Aditya Shah,Electrical,B.Tech,9.22
+674,Vihaan Mishra,Electrical,B.Tech,9.23
+675,Arjun Tiwari,Electrical,B.Tech,9.24
+676,Sai Jha,Electrical,B.Tech,9.25
+677,Reyansh Das,Electrical,M.Tech,7.76
+678,Krishna Banerjee,Electrical,M.Tech,7.77
+679,Ishaan Chatterjee,Electrical,M.Tech,7.78
+680,Shaurya Mehta,Electrical,M.Tech,7.79
+681,Aryan Yadav,Electrical,M.Tech,7.80
+682,Ayush Malhotra,Electrical,M.Tech,7.81
+683,Rudrud Kapoor,Electrical,M.Tech,7.82
+684,Ansh Chawla,Electrical,M.Tech,7.83
+685,Kabir Bhasin,Electrical,M.Tech,7.84
+686,Aanya Gill,Electrical,M.Tech,7.85
+687,Diya Puri,Electrical,M.Tech,7.86
+688,Priya Pandey,Electrical,M.Tech,7.87
+689,Ananya Pathak,Electrical,M.Tech,7.88
+690,Aadhya Sharma,Electrical,M.Tech,7.89
+691,Kavya Verma,Electrical,M.Tech,7.90
+692,Avani Gupta,Electrical,M.Tech,7.91
+693,Ishita Kumar,Electrical,M.Tech,7.92
+694,Riya Singh,Electrical,M.Tech,7.93
+695,Sneha Patel,Electrical,M.Tech,7.94
+696,Pooja Shah,Electrical,M.Tech,7.95
+697,Rahul Mishra,Electrical,M.Tech,7.96
+698,Amit Tiwari,Electrical,M.Tech,7.97
+699,Rohan Jha,Electrical,M.Tech,7.98
+700,Vikram Reddy,Electrical,M.Tech,7.99
+701,Aarav Singh,Mechanical,B.Tech,6.50
+702,Vivaan Patel,Mechanical,B.Tech,6.51
+703,Aditya Shah,Mechanical,B.Tech,6.52
+704,Vihaan Mishra,Mechanical,B.Tech,6.53
+705,Arjun Tiwari,Mechanical,B.Tech,6.54
+706,Sai Jha,Mechanical,B.Tech,6.55
+707,Reyansh Reddy,Mechanical,B.Tech,6.56
+708,Krishna Nair,Mechanical,B.Tech,6.57
+709,Ishaan Joshi,Mechanical,B.Tech,6.58
+710,Shaurya Rao,Mechanical,B.Tech,6.59
+711,Aryan Sinha,Mechanical,B.Tech,6.60
+712,Ayush Saxena,Mechanical,B.Tech,6.61
+713,Rudrud Choudhury,Mechanical,B.Tech,6.62
+714,Ansh Das,Mechanical,B.Tech,6.63
+715,Kabir Banerjee,Mechanical,B.Tech,6.64
+716,Aanya Chatterjee,Mechanical,B.Tech,6.65
+717,Diya Mehta,Mechanical,B.Tech,6.66
+718,Priya Yadav,Mechanical,B.Tech,6.67
+719,Ananya Malhotra,Mechanical,B.Tech,6.68
+720,Aadhya Kapoor,Mechanical,B.Tech,6.69
+721,Kavya Chawla,Mechanical,B.Tech,6.70
+722,Avani Bhasin,Mechanical,B.Tech,6.71
+723,Ishita Gill,Mechanical,B.Tech,6.72
+724,Riya Puri,Mechanical,B.Tech,6.73
+725,Sneha Pandey,Mechanical,B.Tech,6.74
+726,Pooja Pathak,Mechanical,B.Tech,6.75
+727,Rahul Sharma,Mechanical,B.Tech,6.76
+728,Amit Verma,Mechanical,B.Tech,6.77
+729,Rohan Gupta,Mechanical,B.Tech,6.78
+730,Vikram Kumar,Mechanical,B.Tech,6.79
+731,Aarav Singh,Mechanical,B.Tech,6.80
+732,Vivaan Patel,Mechanical,B.Tech,6.81
+733,Aditya Shah,Mechanical,B.Tech,6.82
+734,Vihaan Mishra,Mechanical,B.Tech,6.83
+735,Arjun Tiwari,Mechanical,B.Tech,6.84
+736,Sai Jha,Mechanical,B.Tech,6.85
+737,Reyansh Reddy,Mechanical,B.Tech,6.86
+738,Krishna Nair,Mechanical,B.Tech,6.87
+739,Ishaan Joshi,Mechanical,B.Tech,6.88
+740,Shaurya Rao,Mechanical,B.Tech,6.89
+741,Aryan Sinha,Mechanical,B.Tech,6.90
+742,Ayush Saxena,Mechanical,B.Tech,6.91
+743,Rudrud Choudhury,Mechanical,B.Tech,6.92
+744,Ansh Das,Mechanical,B.Tech,6.93
+745,Kabir Banerjee,Mechanical,B.Tech,6.94
+746,Aanya Chatterjee,Mechanical,B.Tech,6.95
+747,Diya Mehta,Mechanical,B.Tech,6.96
+748,Priya Yadav,Mechanical,B.Tech,6.97
+749,Ananya Malhotra,Mechanical,B.Tech,6.98
+750,Aadhya Kapoor,Mechanical,B.Tech,6.99
+751,Kavya Chawla,Mechanical,B.Tech,7.00
+752,Avani Bhasin,Mechanical,B.Tech,7.01
+753,Ishita Gill,Mechanical,B.Tech,7.02
+754,Riya Puri,Mechanical,B.Tech,7.03
+755,Sneha Pandey,Mechanical,B.Tech,7.04
+756,Pooja Pathak,Mechanical,B.Tech,7.05
+757,Rahul Sharma,Mechanical,B.Tech,7.06
+758,Amit Verma,Mechanical,B.Tech,7.07
+759,Rohan Gupta,Mechanical,B.Tech,7.08
+760,Vikram Kumar,Mechanical,B.Tech,7.09
+761,Aarav Singh,Mechanical,B.Tech,7.10
+762,Vivaan Patel,Mechanical,B.Tech,7.11
+763,Aditya Shah,Mechanical,B.Tech,7.12
+764,Vihaan Mishra,Mechanical,B.Tech,7.13
+765,Arjun Tiwari,Mechanical,B.Tech,7.14
+766,Sai Jha,Mechanical,B.Tech,7.15
+767,Reyansh Reddy,Mechanical,B.Tech,7.16
+768,Krishna Nair,Mechanical,B.Tech,7.17
+769,Ishaan Joshi,Mechanical,B.Tech,7.18
+770,Shaurya Rao,Mechanical,B.Tech,7.19
+771,Aryan Sinha,Mechanical,B.Tech,7.20
+772,Ayush Saxena,Mechanical,B.Tech,7.21
+773,Rudrud Choudhury,Mechanical,B.Tech,7.22
+774,Ansh Das,Mechanical,B.Tech,7.23
+775,Kabir Banerjee,Mechanical,B.Tech,7.24
+776,Aanya Chatterjee,Mechanical,B.Tech,7.25
+777,Diya Mehta,Mechanical,B.Tech,7.26
+778,Priya Yadav,Mechanical,B.Tech,7.27
+779,Ananya Malhotra,Mechanical,B.Tech,7.28
+780,Aadhya Kapoor,Mechanical,B.Tech,7.29
+781,Kavya Chawla,Mechanical,B.Tech,7.30
+782,Avani Bhasin,Mechanical,B.Tech,7.31
+783,Ishita Gill,Mechanical,B.Tech,7.32
+784,Riya Puri,Mechanical,B.Tech,7.33
+785,Sneha Pandey,Mechanical,B.Tech,7.34
+786,Pooja Pathak,Mechanical,B.Tech,7.35
+787,Rahul Sharma,Mechanical,B.Tech,7.36
+788,Amit Verma,Mechanical,B.Tech,7.37
+789,Rohan Gupta,Mechanical,B.Tech,7.38
+790,Vikram Kumar,Mechanical,B.Tech,7.39
+791,Aarav Singh,Mechanical,B.Tech,7.40
+792,Vivaan Patel,Mechanical,B.Tech,7.41
+793,Aditya Shah,Mechanical,B.Tech,7.42
+794,Vihaan Mishra,Mechanical,B.Tech,7.43
+795,Arjun Tiwari,Mechanical,B.Tech,7.44
+796,Sai Jha,Mechanical,B.Tech,7.45
+797,Reyansh Das,Mechanical,M.Tech,8.96
+798,Krishna Banerjee,Mechanical,M.Tech,8.97
+799,Ishaan Chatterjee,Mechanical,M.Tech,8.98
+800,Shaurya Mehta,Mechanical,M.Tech,8.99
+801,Aryan Yadav,Mechanical,M.Tech,9.00
+802,Ayush Malhotra,Mechanical,M.Tech,9.01
+803,Rudrud Kapoor,Mechanical,M.Tech,9.02
+804,Ansh Chawla,Mechanical,M.Tech,9.03
+805,Kabir Bhasin,Mechanical,M.Tech,9.04
+806,Aanya Gill,Mechanical,M.Tech,9.05
+807,Diya Puri,Mechanical,M.Tech,9.06
+808,Priya Pandey,Mechanical,M.Tech,9.07
+809,Ananya Pathak,Mechanical,M.Tech,9.08
+810,Aadhya Sharma,Mechanical,M.Tech,9.09
+811,Kavya Verma,Mechanical,M.Tech,9.10
+812,Avani Gupta,Mechanical,M.Tech,9.11
+813,Ishita Kumar,Mechanical,M.Tech,9.12
+814,Riya Singh,Mechanical,M.Tech,9.13
+815,Sneha Patel,Mechanical,M.Tech,9.14
+816,Pooja Shah,Mechanical,M.Tech,9.15
+817,Rahul Mishra,Mechanical,M.Tech,9.16
+818,Amit Tiwari,Mechanical,M.Tech,9.17
+819,Rohan Jha,Mechanical,M.Tech,9.18
+820,Vikram Reddy,Mechanical,M.Tech,9.19
+821,Aarav Singh,Civil,B.Tech,7.70
+822,Vivaan Patel,Civil,B.Tech,7.71
+823,Aditya Shah,Civil,B.Tech,7.72
+824,Vihaan Mishra,Civil,B.Tech,7.73
+825,Arjun Tiwari,Civil,B.Tech,7.74
+826,Sai Jha,Civil,B.Tech,7.75
+827,Reyansh Reddy,Civil,B.Tech,7.76
+828,Krishna Nair,Civil,B.Tech,7.77
+829,Ishaan Joshi,Civil,B.Tech,7.78
+830,Shaurya Rao,Civil,B.Tech,7.79
+831,Aryan Sinha,Civil,B.Tech,7.80
+832,Ayush Saxena,Civil,B.Tech,7.81
+833,Rudrud Choudhury,Civil,B.Tech,7.82
+834,Ansh Das,Civil,B.Tech,7.83
+835,Kabir Banerjee,Civil,B.Tech,7.84
+836,Aanya Chatterjee,Civil,B.Tech,7.85
+837,Diya Mehta,Civil,B.Tech,7.86
+838,Priya Yadav,Civil,B.Tech,7.87
+839,Ananya Malhotra,Civil,B.Tech,7.88
+840,Aadhya Kapoor,Civil,B.Tech,7.89
+841,Kavya Chawla,Civil,B.Tech,7.90
+842,Avani Bhasin,Civil,B.Tech,7.91
+843,Ishita Gill,Civil,B.Tech,7.92
+844,Riya Puri,Civil,B.Tech,7.93
+845,Sneha Pandey,Civil,B.Tech,7.94
+846,Pooja Pathak,Civil,B.Tech,7.95
+847,Rahul Sharma,Civil,B.Tech,7.96
+848,Amit Verma,Civil,B.Tech,7.97
+849,Rohan Gupta,Civil,B.Tech,7.98
+850,Vikram Kumar,Civil,B.Tech,7.99
+851,Aarav Singh,Civil,B.Tech,8.00
+852,Vivaan Patel,Civil,B.Tech,8.01
+853,Aditya Shah,Civil,B.Tech,8.02
+854,Vihaan Mishra,Civil,B.Tech,8.03
+855,Arjun Tiwari,Civil,B.Tech,8.04
+856,Sai Jha,Civil,B.Tech,8.05
+857,Reyansh Reddy,Civil,B.Tech,8.06
+858,Krishna Nair,Civil,B.Tech,8.07
+859,Ishaan Joshi,Civil,B.Tech,8.08
+860,Shaurya Rao,Civil,B.Tech,8.09
+861,Aryan Sinha,Civil,B.Tech,8.10
+862,Ayush Saxena,Civil,B.Tech,8.11
+863,Rudrud Choudhury,Civil,B.Tech,8.12
+864,Ansh Das,Civil,B.Tech,8.13
+865,Kabir Banerjee,Civil,B.Tech,8.14
+866,Aanya Chatterjee,Civil,B.Tech,8.15
+867,Diya Mehta,Civil,B.Tech,8.16
+868,Priya Yadav,Civil,B.Tech,8.17
+869,Ananya Malhotra,Civil,B.Tech,8.18
+870,Aadhya Kapoor,Civil,B.Tech,8.19
+871,Kavya Chawla,Civil,B.Tech,8.20
+872,Avani Bhasin,Civil,B.Tech,8.21
+873,Ishita Gill,Civil,B.Tech,8.22
+874,Riya Puri,Civil,B.Tech,8.23
+875,Sneha Pandey,Civil,B.Tech,8.24
+876,Pooja Pathak,Civil,B.Tech,8.25
+877,Rahul Sharma,Civil,B.Tech,8.26
+878,Amit Verma,Civil,B.Tech,8.27
+879,Rohan Gupta,Civil,B.Tech,8.28
+880,Vikram Kumar,Civil,B.Tech,8.29
+881,Aarav Singh,Civil,B.Tech,8.30
+882,Vivaan Patel,Civil,B.Tech,8.31
+883,Aditya Shah,Civil,B.Tech,8.32
+884,Vihaan Mishra,Civil,B.Tech,8.33
+885,Arjun Tiwari,Civil,B.Tech,8.34
+886,Sai Jha,Civil,B.Tech,8.35
+887,Reyansh Reddy,Civil,B.Tech,8.36
+888,Krishna Nair,Civil,B.Tech,8.37
+889,Ishaan Joshi,Civil,B.Tech,8.38
+890,Shaurya Rao,Civil,B.Tech,8.39
+891,Aryan Sinha,Civil,B.Tech,8.40
+892,Ayush Saxena,Civil,B.Tech,8.41
+893,Rudrud Choudhury,Civil,B.Tech,8.42
+894,Ansh Das,Civil,B.Tech,8.43
+895,Kabir Banerjee,Civil,B.Tech,8.44
+896,Aanya Chatterjee,Civil,B.Tech,8.45
+897,Diya Mehta,Civil,B.Tech,8.46
+898,Priya Yadav,Civil,B.Tech,8.47
+899,Ananya Malhotra,Civil,B.Tech,8.48
+900,Aadhya Kapoor,Civil,B.Tech,8.49
+901,Kavya Chawla,Civil,B.Tech,8.50
+902,Avani Bhasin,Civil,B.Tech,8.51
+903,Ishita Gill,Civil,B.Tech,8.52
+904,Riya Puri,Civil,B.Tech,8.53
+905,Sneha Pandey,Civil,B.Tech,8.54
+906,Pooja Pathak,Civil,B.Tech,8.55
+907,Rahul Sharma,Civil,B.Tech,8.56
+908,Amit Verma,Civil,B.Tech,8.57
+909,Rohan Gupta,Civil,B.Tech,8.58
+910,Vikram Kumar,Civil,B.Tech,8.59
+911,Aarav Singh,Civil,B.Tech,8.60
+912,Vivaan Patel,Civil,B.Tech,8.61
+913,Aditya Shah,Civil,B.Tech,8.62
+914,Vihaan Mishra,Civil,B.Tech,8.63
+915,Arjun Tiwari,Civil,B.Tech,8.64
+916,Sai Jha,Civil,B.Tech,8.65
+917,Reyansh Das,Civil,M.Tech,7.66
+918,Krishna Banerjee,Civil,M.Tech,7.67
+919,Ishaan Chatterjee,Civil,M.Tech,7.68
+920,Shaurya Mehta,Civil,M.Tech,7.69
+921,Aryan Yadav,Civil,M.Tech,7.70
+922,Ayush Malhotra,Civil,M.Tech,7.71
+923,Rudrud Kapoor,Civil,M.Tech,7.72
+924,Ansh Chawla,Civil,M.Tech,7.73
+925,Kabir Bhasin,Civil,M.Tech,7.74
+926,Aanya Gill,Civil,M.Tech,7.75
+927,Diya Puri,Civil,M.Tech,7.76
+928,Priya Pandey,Civil,M.Tech,7.77
+929,Ananya Pathak,Civil,M.Tech,7.78
+930,Aadhya Sharma,Civil,M.Tech,7.79
+931,Kavya Verma,Civil,M.Tech,7.80
+932,Avani Gupta,Civil,M.Tech,7.81
+933,Ishita Kumar,Civil,M.Tech,7.82
+934,Riya Singh,Civil,M.Tech,7.83
+935,Sneha Patel,Civil,M.Tech,7.84
+936,Pooja Shah,Civil,M.Tech,7.85
+937,Rahul Mishra,Civil,M.Tech,7.86
+938,Amit Tiwari,Civil,M.Tech,7.87
+939,Rohan Jha,Civil,M.Tech,7.88
+940,Vikram Reddy,Civil,M.Tech,7.89
+941,Aarav Singh,ECE,B.Tech,8.90
+942,Vivaan Patel,ECE,B.Tech,8.91
+943,Aditya Shah,ECE,B.Tech,8.92
+944,Vihaan Mishra,ECE,B.Tech,8.93
+945,Arjun Tiwari,ECE,B.Tech,8.94
+946,Sai Jha,ECE,B.Tech,8.95
+947,Reyansh Reddy,ECE,B.Tech,8.96
+948,Krishna Nair,ECE,B.Tech,8.97
+949,Ishaan Joshi,ECE,B.Tech,8.98
+950,Shaurya Rao,ECE,B.Tech,8.99
+951,Aryan Sinha,ECE,B.Tech,9.00
+952,Ayush Saxena,ECE,B.Tech,9.01
+953,Rudrud Choudhury,ECE,B.Tech,9.02
+954,Ansh Das,ECE,B.Tech,9.03
+955,Kabir Banerjee,ECE,B.Tech,9.04
+956,Aanya Chatterjee,ECE,B.Tech,9.05
+957,Diya Mehta,ECE,B.Tech,9.06
+958,Priya Yadav,ECE,B.Tech,9.07
+959,Ananya Malhotra,ECE,B.Tech,9.08
+960,Aadhya Kapoor,ECE,B.Tech,9.09
+961,Kavya Chawla,ECE,B.Tech,9.10
+962,Avani Bhasin,ECE,B.Tech,9.11
+963,Ishita Gill,ECE,B.Tech,9.12
+964,Riya Puri,ECE,B.Tech,9.13
+965,Sneha Pandey,ECE,B.Tech,9.14
+966,Pooja Pathak,ECE,B.Tech,9.15
+967,Rahul Sharma,ECE,B.Tech,9.16
+968,Amit Verma,ECE,B.Tech,9.17
+969,Rohan Gupta,ECE,B.Tech,9.18
+970,Vikram Kumar,ECE,B.Tech,9.19
+971,Aarav Singh,ECE,B.Tech,9.20
+972,Vivaan Patel,ECE,B.Tech,9.21
+973,Aditya Shah,ECE,B.Tech,9.22
+974,Vihaan Mishra,ECE,B.Tech,9.23
+975,Arjun Tiwari,ECE,B.Tech,9.24
+976,Sai Jha,ECE,B.Tech,9.25
+977,Reyansh Reddy,ECE,B.Tech,9.26
+978,Krishna Nair,ECE,B.Tech,9.27
+979,Ishaan Joshi,ECE,B.Tech,9.28
+980,Shaurya Rao,ECE,B.Tech,9.29
+981,Aryan Sinha,ECE,B.Tech,9.30
+982,Ayush Saxena,ECE,B.Tech,9.31
+983,Rudrud Choudhury,ECE,B.Tech,9.32
+984,Ansh Das,ECE,B.Tech,9.33
+985,Kabir Banerjee,ECE,B.Tech,9.34
+986,Aanya Chatterjee,ECE,B.Tech,9.35
+987,Diya Mehta,ECE,B.Tech,9.36
+988,Priya Yadav,ECE,B.Tech,9.37
+989,Ananya Malhotra,ECE,B.Tech,9.38
+990,Aadhya Kapoor,ECE,B.Tech,9.39
+991,Kavya Chawla,ECE,B.Tech,9.40
+992,Avani Bhasin,ECE,B.Tech,9.41
+993,Ishita Gill,ECE,B.Tech,9.42
+994,Riya Puri,ECE,B.Tech,9.43
+995,Sneha Pandey,ECE,B.Tech,9.44
+996,Pooja Pathak,ECE,B.Tech,9.45
+997,Rahul Sharma,ECE,B.Tech,9.46
+998,Amit Verma,ECE,B.Tech,9.47
+999,Rohan Gupta,ECE,B.Tech,9.48
+1000,Vikram Kumar,ECE,B.Tech,9.49
+1001,Aarav Singh,ECE,B.Tech,6.50
+1002,Vivaan Patel,ECE,B.Tech,6.51
+1003,Aditya Shah,ECE,B.Tech,6.52
+1004,Vihaan Mishra,ECE,B.Tech,6.53
+1005,Arjun Tiwari,ECE,B.Tech,6.54
+1006,Sai Jha,ECE,B.Tech,6.55
+1007,Reyansh Reddy,ECE,B.Tech,6.56
+1008,Krishna Nair,ECE,B.Tech,6.57
+1009,Ishaan Joshi,ECE,B.Tech,6.58
+1010,Shaurya Rao,ECE,B.Tech,6.59
+1011,Aryan Sinha,ECE,B.Tech,6.60
+1012,Ayush Saxena,ECE,B.Tech,6.61
+1013,Rudrud Choudhury,ECE,B.Tech,6.62
+1014,Ansh Das,ECE,B.Tech,6.63
+1015,Kabir Banerjee,ECE,B.Tech,6.64
+1016,Aanya Chatterjee,ECE,B.Tech,6.65
+1017,Diya Mehta,ECE,B.Tech,6.66
+1018,Priya Yadav,ECE,B.Tech,6.67
+1019,Ananya Malhotra,ECE,B.Tech,6.68
+1020,Aadhya Kapoor,ECE,B.Tech,6.69
+1021,Kavya Chawla,ECE,B.Tech,6.70
+1022,Avani Bhasin,ECE,B.Tech,6.71
+1023,Ishita Gill,ECE,B.Tech,6.72
+1024,Riya Puri,ECE,B.Tech,6.73
+1025,Sneha Pandey,ECE,B.Tech,6.74
+1026,Pooja Pathak,ECE,B.Tech,6.75
+1027,Rahul Sharma,ECE,B.Tech,6.76
+1028,Amit Verma,ECE,B.Tech,6.77
+1029,Rohan Gupta,ECE,B.Tech,6.78
+1030,Vikram Kumar,ECE,B.Tech,6.79
+1031,Aarav Singh,ECE,B.Tech,6.80
+1032,Vivaan Patel,ECE,B.Tech,6.81
+1033,Aditya Shah,ECE,B.Tech,6.82
+1034,Vihaan Mishra,ECE,B.Tech,6.83
+1035,Arjun Tiwari,ECE,B.Tech,6.84
+1036,Sai Jha,ECE,B.Tech,6.85
+1037,Reyansh Das,ECE,M.Tech,8.86
+1038,Krishna Banerjee,ECE,M.Tech,8.87
+1039,Ishaan Chatterjee,ECE,M.Tech,8.88
+1040,Shaurya Mehta,ECE,M.Tech,8.89
+1041,Aryan Yadav,ECE,M.Tech,8.90
+1042,Ayush Malhotra,ECE,M.Tech,8.91
+1043,Rudrud Kapoor,ECE,M.Tech,8.92
+1044,Ansh Chawla,ECE,M.Tech,8.93
+1045,Kabir Bhasin,ECE,M.Tech,8.94
+1046,Aanya Gill,ECE,M.Tech,8.95
+1047,Diya Puri,ECE,M.Tech,8.96
+1048,Priya Pandey,ECE,M.Tech,8.97
+1049,Ananya Pathak,ECE,M.Tech,8.98
+1050,Aadhya Sharma,ECE,M.Tech,8.99
+1051,Kavya Verma,ECE,M.Tech,9.00
+1052,Avani Gupta,ECE,M.Tech,9.01
+1053,Ishita Kumar,ECE,M.Tech,9.02
+1054,Riya Singh,ECE,M.Tech,9.03
+1055,Sneha Patel,ECE,M.Tech,9.04
+1056,Pooja Shah,ECE,M.Tech,9.05
+1057,Rahul Mishra,ECE,M.Tech,9.06
+1058,Amit Tiwari,ECE,M.Tech,9.07
+1059,Rohan Jha,ECE,M.Tech,9.08
+1060,Vikram Reddy,ECE,M.Tech,9.09
+1061,Aarav Tiwari,Data Analytics,BCA,8.60
+1062,Vivaan Jha,Data Analytics,BCA,8.61
+1063,Aditya Reddy,Data Analytics,BCA,8.62
+1064,Vihaan Nair,Data Analytics,BCA,8.63
+1065,Arjun Joshi,Data Analytics,BCA,8.64
+1066,Sai Rao,Data Analytics,BCA,8.65
+1067,Reyansh Sinha,Data Analytics,BCA,8.66
+1068,Krishna Saxena,Data Analytics,BCA,8.67
+1069,Ishaan Choudhury,Data Analytics,BCA,8.68
+1070,Shaurya Das,Data Analytics,BCA,8.69
+1071,Aryan Banerjee,Data Analytics,BCA,8.70
+1072,Ayush Chatterjee,Data Analytics,BCA,8.71
+1073,Rudrud Mehta,Data Analytics,BCA,8.72
+1074,Ansh Yadav,Data Analytics,BCA,8.73
+1075,Kabir Malhotra,Data Analytics,BCA,8.74
+1076,Aanya Kapoor,Data Analytics,BCA,8.75
+1077,Diya Chawla,Data Analytics,BCA,8.76
+1078,Priya Bhasin,Data Analytics,BCA,8.77
+1079,Ananya Gill,Data Analytics,BCA,8.78
+1080,Aadhya Puri,Data Analytics,BCA,8.79
+1081,Kavya Pandey,Data Analytics,BCA,8.80
+1082,Avani Pathak,Data Analytics,BCA,8.81
+1083,Ishita Sharma,Data Analytics,BCA,8.82
+1084,Riya Verma,Data Analytics,BCA,8.83
+1085,Sneha Gupta,Data Analytics,BCA,8.84
+1086,Pooja Kumar,Data Analytics,BCA,8.85
+1087,Rahul Singh,Data Analytics,BCA,8.86
+1088,Amit Patel,Data Analytics,BCA,8.87
+1089,Rohan Shah,Data Analytics,BCA,8.88
+1090,Vikram Mishra,Data Analytics,BCA,8.89
+1091,Aarav Saxena,Data Analytics,MCA,7.55
+1092,Vivaan Choudhury,Data Analytics,MCA,7.56
+1093,Aditya Das,Data Analytics,MCA,7.57
+1094,Vihaan Banerjee,Data Analytics,MCA,7.58
+1095,Arjun Chatterjee,Data Analytics,MCA,7.59
+1096,Sai Mehta,Data Analytics,MCA,7.60
+1097,Reyansh Yadav,Data Analytics,MCA,7.61
+1098,Krishna Malhotra,Data Analytics,MCA,7.62
+1099,Ishaan Kapoor,Data Analytics,MCA,7.63
+1100,Shaurya Chawla,Data Analytics,MCA,7.64
+1101,Aryan Bhasin,Data Analytics,MCA,7.65
+1102,Ayush Gill,Data Analytics,MCA,7.66
+1103,Rudrud Puri,Data Analytics,MCA,7.67
+1104,Ansh Pandey,Data Analytics,MCA,7.68
+1105,Kabir Pathak,Data Analytics,MCA,7.69
+1106,Aanya Sharma,Data Analytics,MCA,7.70
+1107,Diya Verma,Data Analytics,MCA,7.71
+1108,Priya Gupta,Data Analytics,MCA,7.72
+1109,Ananya Kumar,Data Analytics,MCA,7.73
+1110,Aadhya Singh,Data Analytics,MCA,7.74
+1111,Kavya Patel,Data Analytics,MCA,7.75
+1112,Avani Shah,Data Analytics,MCA,7.76
+1113,Ishita Mishra,Data Analytics,MCA,7.77
+1114,Riya Tiwari,Data Analytics,MCA,7.78
+1115,Sneha Jha,Data Analytics,MCA,7.79
+1116,Pooja Reddy,Data Analytics,MCA,7.80
+1117,Rahul Nair,Data Analytics,MCA,7.81
+1118,Amit Joshi,Data Analytics,MCA,7.82
+1119,Rohan Rao,Data Analytics,MCA,7.83
+1120,Vikram Sinha,Data Analytics,MCA,7.84
+1121,Aarav Tiwari,Cloud Computing,BCA,9.20
+1122,Vivaan Jha,Cloud Computing,BCA,9.21
+1123,Aditya Reddy,Cloud Computing,BCA,9.22
+1124,Vihaan Nair,Cloud Computing,BCA,9.23
+1125,Arjun Joshi,Cloud Computing,BCA,9.24
+1126,Sai Rao,Cloud Computing,BCA,9.25
+1127,Reyansh Sinha,Cloud Computing,BCA,9.26
+1128,Krishna Saxena,Cloud Computing,BCA,9.27
+1129,Ishaan Choudhury,Cloud Computing,BCA,9.28
+1130,Shaurya Das,Cloud Computing,BCA,9.29
+1131,Aryan Banerjee,Cloud Computing,BCA,9.30
+1132,Ayush Chatterjee,Cloud Computing,BCA,9.31
+1133,Rudrud Mehta,Cloud Computing,BCA,9.32
+1134,Ansh Yadav,Cloud Computing,BCA,9.33
+1135,Kabir Malhotra,Cloud Computing,BCA,9.34
+1136,Aanya Kapoor,Cloud Computing,BCA,9.35
+1137,Diya Chawla,Cloud Computing,BCA,9.36
+1138,Priya Bhasin,Cloud Computing,BCA,9.37
+1139,Ananya Gill,Cloud Computing,BCA,9.38
+1140,Aadhya Puri,Cloud Computing,BCA,9.39
+1141,Kavya Pandey,Cloud Computing,BCA,9.40
+1142,Avani Pathak,Cloud Computing,BCA,9.41
+1143,Ishita Sharma,Cloud Computing,BCA,9.42
+1144,Riya Verma,Cloud Computing,BCA,9.43
+1145,Sneha Gupta,Cloud Computing,BCA,9.44
+1146,Pooja Kumar,Cloud Computing,BCA,9.45
+1147,Rahul Singh,Cloud Computing,BCA,9.46
+1148,Amit Patel,Cloud Computing,BCA,9.47
+1149,Rohan Shah,Cloud Computing,BCA,9.48
+1150,Vikram Mishra,Cloud Computing,BCA,9.49
+1151,Aarav Saxena,Cloud Computing,MCA,8.15
+1152,Vivaan Choudhury,Cloud Computing,MCA,8.16
+1153,Aditya Das,Cloud Computing,MCA,8.17
+1154,Vihaan Banerjee,Cloud Computing,MCA,8.18
+1155,Arjun Chatterjee,Cloud Computing,MCA,8.19
+1156,Sai Mehta,Cloud Computing,MCA,8.20
+1157,Reyansh Yadav,Cloud Computing,MCA,8.21
+1158,Krishna Malhotra,Cloud Computing,MCA,8.22
+1159,Ishaan Kapoor,Cloud Computing,MCA,8.23
+1160,Shaurya Chawla,Cloud Computing,MCA,8.24
+1161,Aryan Bhasin,Cloud Computing,MCA,8.25
+1162,Ayush Gill,Cloud Computing,MCA,8.26
+1163,Rudrud Puri,Cloud Computing,MCA,8.27
+1164,Ansh Pandey,Cloud Computing,MCA,8.28
+1165,Kabir Pathak,Cloud Computing,MCA,8.29
+1166,Aanya Sharma,Cloud Computing,MCA,8.30
+1167,Diya Verma,Cloud Computing,MCA,8.31
+1168,Priya Gupta,Cloud Computing,MCA,8.32
+1169,Ananya Kumar,Cloud Computing,MCA,8.33
+1170,Aadhya Singh,Cloud Computing,MCA,8.34
+1171,Kavya Patel,Cloud Computing,MCA,8.35
+1172,Avani Shah,Cloud Computing,MCA,8.36
+1173,Ishita Mishra,Cloud Computing,MCA,8.37
+1174,Riya Tiwari,Cloud Computing,MCA,8.38
+1175,Sneha Jha,Cloud Computing,MCA,8.39
+1176,Pooja Reddy,Cloud Computing,MCA,8.40
+1177,Rahul Nair,Cloud Computing,MCA,8.41
+1178,Amit Joshi,Cloud Computing,MCA,8.42
+1179,Rohan Rao,Cloud Computing,MCA,8.43
+1180,Vikram Sinha,Cloud Computing,MCA,8.44
+1181,Aarav Tiwari,Cyber Security,BCA,6.30
+1182,Vivaan Jha,Cyber Security,BCA,6.31
+1183,Aditya Reddy,Cyber Security,BCA,6.32
+1184,Vihaan Nair,Cyber Security,BCA,6.33
+1185,Arjun Joshi,Cyber Security,BCA,6.34
+1186,Sai Rao,Cyber Security,BCA,6.35
+1187,Reyansh Sinha,Cyber Security,BCA,6.36
+1188,Krishna Saxena,Cyber Security,BCA,6.37
+1189,Ishaan Choudhury,Cyber Security,BCA,6.38
+1190,Shaurya Das,Cyber Security,BCA,6.39
+1191,Aryan Banerjee,Cyber Security,BCA,6.40
+1192,Ayush Chatterjee,Cyber Security,BCA,6.41
+1193,Rudrud Mehta,Cyber Security,BCA,6.42
+1194,Ansh Yadav,Cyber Security,BCA,6.43
+1195,Kabir Malhotra,Cyber Security,BCA,6.44
+1196,Aanya Kapoor,Cyber Security,BCA,6.45
+1197,Diya Chawla,Cyber Security,BCA,6.46
+1198,Priya Bhasin,Cyber Security,BCA,6.47
+1199,Ananya Gill,Cyber Security,BCA,6.48
+1200,Aadhya Puri,Cyber Security,BCA,6.49
+1201,Kavya Pandey,Cyber Security,BCA,6.50
+1202,Avani Pathak,Cyber Security,BCA,6.51
+1203,Ishita Sharma,Cyber Security,BCA,6.52
+1204,Riya Verma,Cyber Security,BCA,6.53
+1205,Sneha Gupta,Cyber Security,BCA,6.54
+1206,Pooja Kumar,Cyber Security,BCA,6.55
+1207,Rahul Singh,Cyber Security,BCA,6.56
+1208,Amit Patel,Cyber Security,BCA,6.57
+1209,Rohan Shah,Cyber Security,BCA,6.58
+1210,Vikram Mishra,Cyber Security,BCA,6.59
+1211,Aarav Saxena,Cyber Security,MCA,8.75
+1212,Vivaan Choudhury,Cyber Security,MCA,8.76
+1213,Aditya Das,Cyber Security,MCA,8.77
+1214,Vihaan Banerjee,Cyber Security,MCA,8.78
+1215,Arjun Chatterjee,Cyber Security,MCA,8.79
+1216,Sai Mehta,Cyber Security,MCA,8.80
+1217,Reyansh Yadav,Cyber Security,MCA,8.81
+1218,Krishna Malhotra,Cyber Security,MCA,8.82
+1219,Ishaan Kapoor,Cyber Security,MCA,8.83
+1220,Shaurya Chawla,Cyber Security,MCA,8.84
+1221,Aryan Bhasin,Cyber Security,MCA,8.85
+1222,Ayush Gill,Cyber Security,MCA,8.86
+1223,Rudrud Puri,Cyber Security,MCA,8.87
+1224,Ansh Pandey,Cyber Security,MCA,8.88
+1225,Kabir Pathak,Cyber Security,MCA,8.89
+1226,Aanya Sharma,Cyber Security,MCA,8.90
+1227,Diya Verma,Cyber Security,MCA,8.91
+1228,Priya Gupta,Cyber Security,MCA,8.92
+1229,Ananya Kumar,Cyber Security,MCA,8.93
+1230,Aadhya Singh,Cyber Security,MCA,8.94
+1231,Kavya Patel,Cyber Security,MCA,8.95
+1232,Avani Shah,Cyber Security,MCA,8.96
+1233,Ishita Mishra,Cyber Security,MCA,8.97
+1234,Riya Tiwari,Cyber Security,MCA,8.98
+1235,Sneha Jha,Cyber Security,MCA,8.99
+1236,Pooja Reddy,Cyber Security,MCA,9.00
+1237,Rahul Nair,Cyber Security,MCA,9.01
+1238,Amit Joshi,Cyber Security,MCA,9.02
+1239,Rohan Rao,Cyber Security,MCA,9.03
+1240,Vikram Sinha,Cyber Security,MCA,9.04
+1241,Aarav Tiwari,Software Dev,BCA,6.90
+1242,Vivaan Jha,Software Dev,BCA,6.91
+1243,Aditya Reddy,Software Dev,BCA,6.92
+1244,Vihaan Nair,Software Dev,BCA,6.93
+1245,Arjun Joshi,Software Dev,BCA,6.94
+1246,Sai Rao,Software Dev,BCA,6.95
+1247,Reyansh Sinha,Software Dev,BCA,6.96
+1248,Krishna Saxena,Software Dev,BCA,6.97
+1249,Ishaan Choudhury,Software Dev,BCA,6.98
+1250,Shaurya Das,Software Dev,BCA,6.99
+1251,Aryan Banerjee,Software Dev,BCA,7.00
+1252,Ayush Chatterjee,Software Dev,BCA,7.01
+1253,Rudrud Mehta,Software Dev,BCA,7.02
+1254,Ansh Yadav,Software Dev,BCA,7.03
+1255,Kabir Malhotra,Software Dev,BCA,7.04
+1256,Aanya Kapoor,Software Dev,BCA,7.05
+1257,Diya Chawla,Software Dev,BCA,7.06
+1258,Priya Bhasin,Software Dev,BCA,7.07
+1259,Ananya Gill,Software Dev,BCA,7.08
+1260,Aadhya Puri,Software Dev,BCA,7.09
+1261,Kavya Pandey,Software Dev,BCA,7.10
+1262,Avani Pathak,Software Dev,BCA,7.11
+1263,Ishita Sharma,Software Dev,BCA,7.12
+1264,Riya Verma,Software Dev,BCA,7.13
+1265,Sneha Gupta,Software Dev,BCA,7.14
+1266,Pooja Kumar,Software Dev,BCA,7.15
+1267,Rahul Singh,Software Dev,BCA,7.16
+1268,Amit Patel,Software Dev,BCA,7.17
+1269,Rohan Shah,Software Dev,BCA,7.18
+1270,Vikram Mishra,Software Dev,BCA,7.19
+1271,Aarav Saxena,Software Dev,MCA,9.35
+1272,Vivaan Choudhury,Software Dev,MCA,9.36
+1273,Aditya Das,Software Dev,MCA,9.37
+1274,Vihaan Banerjee,Software Dev,MCA,9.38
+1275,Arjun Chatterjee,Software Dev,MCA,9.39
+1276,Sai Mehta,Software Dev,MCA,9.40
+1277,Reyansh Yadav,Software Dev,MCA,9.41
+1278,Krishna Malhotra,Software Dev,MCA,9.42
+1279,Ishaan Kapoor,Software Dev,MCA,9.43
+1280,Shaurya Chawla,Software Dev,MCA,9.44
+1281,Aryan Bhasin,Software Dev,MCA,9.45
+1282,Ayush Gill,Software Dev,MCA,9.46
+1283,Rudrud Puri,Software Dev,MCA,9.47
+1284,Ansh Pandey,Software Dev,MCA,9.48
+1285,Kabir Pathak,Software Dev,MCA,9.49
+1286,Aanya Sharma,Software Dev,MCA,9.50
+1287,Diya Verma,Software Dev,MCA,9.51
+1288,Priya Gupta,Software Dev,MCA,9.52
+1289,Ananya Kumar,Software Dev,MCA,9.53
+1290,Aadhya Singh,Software Dev,MCA,9.54
+1291,Kavya Patel,Software Dev,MCA,9.55
+1292,Avani Shah,Software Dev,MCA,9.56
+1293,Ishita Mishra,Software Dev,MCA,9.57
+1294,Riya Tiwari,Software Dev,MCA,9.58
+1295,Sneha Jha,Software Dev,MCA,9.59
+1296,Pooja Reddy,Software Dev,MCA,9.60
+1297,Rahul Nair,Software Dev,MCA,9.61
+1298,Amit Joshi,Software Dev,MCA,9.62
+1299,Rohan Rao,Software Dev,MCA,9.63
+1300,Vikram Sinha,Software Dev,MCA,9.64
