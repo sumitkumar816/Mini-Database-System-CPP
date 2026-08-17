@@ -80,3 +80,12 @@ Choose Option (1-6): 2
 * **Data Streams:** `<sstream>` (`std::stringstream` tokenizer layers for CSV data text splits)
 * **Memory Sequences:** `<vector>` (Dynamic runtime memory block hosting arrays)
 * **System Automation:** `<algorithm>` (`std::remove_if` data shift compaction utilities)
+
+* ## 📊 Load Testing & Dataset Scalability
+
+To evaluate the system's performance under realistic workload conditions, the project repository comes pre-loaded with a mock dataset of **500 structured student profiles** (`students_db.txt`).
+
+* **Production Simulation**: Replaces standard 5-10 row hardcoded test samples with a bulk dataset to demonstrate real-world search and stream handling speeds.
+* **Rigid Parameter Constraints**: Generated systematically to map strict institutional dynamics—allocating precise 120-row caps on CSE/CSE-AI headers, 60-row limits on Mechanical/Civil nodes, and an exact **80% enrollment skew towards B.Tech courses** across Indian structural names.
+* **Algorithmic Validation**: Proves that the memory buffering logic and tabular parsing operations run efficiently with larger plain-text data sets without trailing execution delays.
+
