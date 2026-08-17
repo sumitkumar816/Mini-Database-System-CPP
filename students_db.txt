@@ -1,0 +1,1200 @@
+862,Ayush Saxena,Civil,B.Tech,8.11
+301,Kavya Chawla,CSE-AI,B.Tech,8.50
+127,Rahul Sharma,CSE,B.Tech,6.76
+1192,Ayush Chatterjee,Cyber Security,BCA,6.41
+1260,Aadhya Puri,Software Dev,BCA,7.09
+202,Ayush Malhotra,CSE,M.Tech,8.01
+1256,Aanya Kapoor,Software Dev,BCA,7.05
+1202,Avani Pathak,Cyber Security,BCA,6.51
+691,Kavya Verma,Electrical,M.Tech,7.90
+772,Ayush Saxena,Mechanical,B.Tech,7.21
+355,Kabir Banerjee,CSE-AIML,B.Tech,9.04
+575,Sneha Patel,CSE-Data Science,M.Tech,9.24
+293,Rudrud Choudhury,CSE-AI,B.Tech,8.42
+660,Aadhya Kapoor,Electrical,B.Tech,9.09
+1041,Aryan Yadav,ECE,M.Tech,8.90
+1212,Vivaan Choudhury,Cyber Security,MCA,8.76
+847,Rahul Sharma,Civil,B.Tech,7.96
+868,Priya Yadav,Civil,B.Tech,8.17
+474,Ansh Das,CSE-Data Science,B.Tech,7.23
+1213,Aditya Das,Cyber Security,MCA,8.77
+952,Ayush Saxena,ECE,B.Tech,9.01
+662,Avani Bhasin,Electrical,B.Tech,9.11
+1201,Kavya Pandey,Cyber Security,BCA,6.50
+916,Sai Jha,Civil,B.Tech,8.65
+1218,Krishna Malhotra,Cyber Security,MCA,8.82
+356,Aanya Chatterjee,CSE-AIML,B.Tech,9.05
+548,Amit Verma,CSE-Data Science,B.Tech,7.97
+1168,Priya Gupta,Cloud Computing,MCA,8.32
+511,Kavya Chawla,CSE-Data Science,B.Tech,7.60
+678,Krishna Banerjee,Electrical,M.Tech,7.77
+669,Rohan Gupta,Electrical,B.Tech,9.18
+614,Vihaan Mishra,Electrical,B.Tech,8.63
+1007,Reyansh Reddy,ECE,B.Tech,6.56
+118,Priya Yadav,CSE,B.Tech,6.67
+1158,Krishna Malhotra,Cloud Computing,MCA,8.22
+779,Ananya Malhotra,Mechanical,B.Tech,7.28
+537,Diya Mehta,CSE-Data Science,B.Tech,7.86
+218,Amit Tiwari,CSE,M.Tech,8.17
+469,Ishaan Joshi,CSE-Data Science,B.Tech,7.18
+942,Vivaan Patel,ECE,B.Tech,8.91
+279,Rohan Gupta,CSE-AI,B.Tech,8.28
+1155,Arjun Chatterjee,Cloud Computing,MCA,8.19
+1111,Kavya Patel,Data Analytics,MCA,7.75
+209,Ananya Pathak,CSE,M.Tech,8.08
+1286,Aanya Sharma,Software Dev,MCA,9.50
+692,Avani Gupta,Electrical,M.Tech,7.91
+836,Aanya Chatterjee,Civil,B.Tech,7.85
+222,Vivaan Patel,CSE-AI,B.Tech,7.71
+164,Vihaan Mishra,CSE,B.Tech,7.13
+562,Ayush Malhotra,CSE-Data Science,M.Tech,9.11
+1021,Kavya Chawla,ECE,B.Tech,6.70
+407,Reyansh Reddy,CSE-AIML,B.Tech,6.56
+1279,Ishaan Kapoor,Software Dev,MCA,9.43
+558,Krishna Banerjee,CSE-Data Science,M.Tech,9.07
+1134,Ansh Yadav,Cloud Computing,BCA,9.33
+460,Vikram Reddy,CSE-AIML,M.Tech,8.09
+725,Sneha Pandey,Mechanical,B.Tech,6.74
+639,Rohan Gupta,Electrical,B.Tech,8.88
+653,Rudrud Choudhury,Electrical,B.Tech,9.02
+392,Avani Bhasin,CSE-AIML,B.Tech,9.41
+487,Rahul Sharma,CSE-Data Science,B.Tech,7.36
+881,Aarav Singh,Civil,B.Tech,8.30
+617,Reyansh Reddy,Electrical,B.Tech,8.66
+155,Sneha Pandey,CSE,B.Tech,7.04
+561,Aryan Yadav,CSE-Data Science,M.Tech,9.10
+874,Riya Puri,Civil,B.Tech,8.23
+1275,Arjun Chatterjee,Software Dev,MCA,9.39
+228,Krishna Nair,CSE-AI,B.Tech,7.77
+719,Ananya Malhotra,Mechanical,B.Tech,6.68
+543,Ishita Gill,CSE-Data Science,B.Tech,7.92
+919,Ishaan Chatterjee,Civil,M.Tech,7.68
+1247,Reyansh Sinha,Software Dev,BCA,6.96
+816,Pooja Shah,Mechanical,M.Tech,9.15
+360,Aadhya Kapoor,CSE-AIML,B.Tech,9.09
+1170,Aadhya Singh,Cloud Computing,MCA,8.34
+888,Krishna Nair,Civil,B.Tech,8.37
+717,Diya Mehta,Mechanical,B.Tech,6.66
+1262,Avani Pathak,Software Dev,BCA,7.11
+1060,Vikram Reddy,ECE,M.Tech,9.09
+752,Avani Bhasin,Mechanical,B.Tech,7.01
+1150,Vikram Mishra,Cloud Computing,BCA,9.49
+804,Ansh Chawla,Mechanical,M.Tech,9.03
+1106,Aanya Sharma,Data Analytics,MCA,7.70
+207,Diya Puri,CSE,M.Tech,8.06
+174,Ansh Das,CSE,B.Tech,7.23
+1053,Ishita Kumar,ECE,M.Tech,9.02
+679,Ishaan Chatterjee,Electrical,M.Tech,7.78
+768,Krishna Nair,Mechanical,B.Tech,7.17
+898,Priya Yadav,Civil,B.Tech,8.47
+571,Kavya Verma,CSE-Data Science,M.Tech,9.20
+266,Aanya Chatterjee,CSE-AI,B.Tech,8.15
+453,Ishita Kumar,CSE-AIML,M.Tech,8.02
+1174,Riya Tiwari,Cloud Computing,MCA,8.38
+863,Rudrud Choudhury,Civil,B.Tech,8.12
+1284,Ansh Pandey,Software Dev,MCA,9.48
+365,Sneha Pandey,CSE-AIML,B.Tech,9.14
+706,Sai Jha,Mechanical,B.Tech,6.55
+395,Sneha Pandey,CSE-AIML,B.Tech,9.44
+159,Rohan Gupta,CSE,B.Tech,7.08
+1126,Sai Rao,Cloud Computing,BCA,9.25
+1124,Vihaan Nair,Cloud Computing,BCA,9.23
+1179,Rohan Rao,Cloud Computing,MCA,8.43
+764,Vihaan Mishra,Mechanical,B.Tech,7.13
+230,Shaurya Rao,CSE-AI,B.Tech,7.79
+201,Aryan Yadav,CSE,M.Tech,8.00
+637,Rahul Sharma,Electrical,B.Tech,8.86
+1296,Pooja Reddy,Software Dev,MCA,9.60
+1071,Aryan Banerjee,Data Analytics,BCA,8.70
+162,Vivaan Patel,CSE,B.Tech,7.11
+485,Sneha Pandey,CSE-Data Science,B.Tech,7.34
+219,Rohan Jha,CSE,M.Tech,8.18
+667,Rahul Sharma,Electrical,B.Tech,9.16
+347,Reyansh Reddy,CSE-AIML,B.Tech,8.96
+200,Shaurya Mehta,CSE,M.Tech,7.99
+1189,Ishaan Choudhury,Cyber Security,BCA,6.38
+514,Riya Puri,CSE-Data Science,B.Tech,7.63
+114,Ansh Das,CSE,B.Tech,6.63
+1067,Reyansh Sinha,Data Analytics,BCA,8.66
+352,Ayush Saxena,CSE-AIML,B.Tech,9.01
+905,Sneha Pandey,Civil,B.Tech,8.54
+740,Shaurya Rao,Mechanical,B.Tech,6.89
+135,Arjun Tiwari,CSE,B.Tech,6.84
+1078,Priya Bhasin,Data Analytics,BCA,8.77
+648,Krishna Nair,Electrical,B.Tech,8.97
+1194,Ansh Yadav,Cyber Security,BCA,6.43
+708,Krishna Nair,Mechanical,B.Tech,6.57
+166,Sai Jha,CSE,B.Tech,7.15
+1016,Aanya Chatterjee,ECE,B.Tech,6.65
+1121,Aarav Tiwari,Cloud Computing,BCA,9.20
+966,Pooja Pathak,ECE,B.Tech,9.15
+1127,Reyansh Sinha,Cloud Computing,BCA,9.26
+953,Rudrud Choudhury,ECE,B.Tech,9.02
+547,Rahul Sharma,CSE-Data Science,B.Tech,7.96
+1082,Avani Pathak,Data Analytics,BCA,8.81
+943,Aditya Shah,ECE,B.Tech,8.92
+584,Vihaan Mishra,Electrical,B.Tech,8.33
+945,Arjun Tiwari,ECE,B.Tech,8.94
+838,Priya Yadav,Civil,B.Tech,7.87
+1200,Aadhya Puri,Cyber Security,BCA,6.49
+633,Ishita Gill,Electrical,B.Tech,8.82
+385,Kabir Banerjee,CSE-AIML,B.Tech,9.34
+414,Ansh Das,CSE-AIML,B.Tech,6.63
+762,Vivaan Patel,Mechanical,B.Tech,7.11
+557,Reyansh Das,CSE-Data Science,M.Tech,9.06
+273,Ishita Gill,CSE-AI,B.Tech,8.22
+450,Aadhya Sharma,CSE-AIML,M.Tech,7.99
+383,Rudrud Choudhury,CSE-AIML,B.Tech,9.32
+619,Ishaan Joshi,Electrical,B.Tech,8.68
+362,Avani Bhasin,CSE-AIML,B.Tech,9.11
+790,Vikram Kumar,Mechanical,B.Tech,7.39
+434,Vihaan Mishra,CSE-AIML,B.Tech,6.83
+458,Amit Tiwari,CSE-AIML,M.Tech,8.07
+350,Shaurya Rao,CSE-AIML,B.Tech,8.99
+1220,Shaurya Chawla,Cyber Security,MCA,8.84
+1290,Aadhya Singh,Software Dev,MCA,9.54
+1224,Ansh Pandey,Cyber Security,MCA,8.88
+650,Shaurya Rao,Electrical,B.Tech,8.99
+318,Krishna Banerjee,CSE-AI,M.Tech,9.17
+723,Ishita Gill,Mechanical,B.Tech,6.72
+102,Vivaan Patel,CSE,B.Tech,6.51
+540,Aadhya Kapoor,CSE-Data Science,B.Tech,7.89
+760,Vikram Kumar,Mechanical,B.Tech,7.09
+478,Priya Yadav,CSE-Data Science,B.Tech,7.27
+982,Ayush Saxena,ECE,B.Tech,9.31
+141,Aryan Sinha,CSE,B.Tech,6.90
+277,Rahul Sharma,CSE-AI,B.Tech,8.26
+992,Avani Bhasin,ECE,B.Tech,9.41
+1244,Vihaan Nair,Software Dev,BCA,6.93
+1231,Kavya Patel,Cyber Security,MCA,8.95
+702,Vivaan Patel,Mechanical,B.Tech,6.51
+138,Krishna Nair,CSE,B.Tech,6.87
+401,Aarav Singh,CSE-AIML,B.Tech,6.50
+819,Rohan Jha,Mechanical,M.Tech,9.18
+607,Rahul Sharma,Electrical,B.Tech,8.56
+307,Rahul Sharma,CSE-AI,B.Tech,8.56
+1072,Ayush Chatterjee,Data Analytics,BCA,8.71
+773,Rudrud Choudhury,Mechanical,B.Tech,7.22
+171,Aryan Sinha,CSE,B.Tech,7.20
+242,Avani Bhasin,CSE-AI,B.Tech,7.91
+1265,Sneha Gupta,Software Dev,BCA,7.14
+529,Ishaan Joshi,CSE-Data Science,B.Tech,7.78
+846,Pooja Pathak,Civil,B.Tech,7.95
+506,Aanya Chatterjee,CSE-Data Science,B.Tech,7.55
+1136,Aanya Kapoor,Cloud Computing,BCA,9.35
+840,Aadhya Kapoor,Civil,B.Tech,7.89
+865,Kabir Banerjee,Civil,B.Tech,8.14
+1207,Rahul Singh,Cyber Security,BCA,6.56
+444,Ansh Chawla,CSE-AIML,M.Tech,7.93
+244,Riya Puri,CSE-AI,B.Tech,7.93
+339,Rohan Jha,CSE-AI,M.Tech,9.38
+170,Shaurya Rao,CSE,B.Tech,7.19
+1031,Aarav Singh,ECE,B.Tech,6.80
+885,Arjun Tiwari,Civil,B.Tech,8.34
+710,Shaurya Rao,Mechanical,B.Tech,6.59
+985,Kabir Banerjee,ECE,B.Tech,9.34
+867,Diya Mehta,Civil,B.Tech,8.16
+328,Priya Pandey,CSE-AI,M.Tech,9.27
+391,Kavya Chawla,CSE-AIML,B.Tech,9.40
+546,Pooja Pathak,CSE-Data Science,B.Tech,7.95
+486,Pooja Pathak,CSE-Data Science,B.Tech,7.35
+665,Sneha Pandey,Electrical,B.Tech,9.14
+441,Aryan Yadav,CSE-AIML,M.Tech,7.90
+842,Avani Bhasin,Civil,B.Tech,7.91
+596,Aanya Chatterjee,Electrical,B.Tech,8.45
+668,Amit Verma,Electrical,B.Tech,9.17
+117,Diya Mehta,CSE,B.Tech,6.66
+530,Shaurya Rao,CSE-Data Science,B.Tech,7.79
+154,Riya Puri,CSE,B.Tech,7.03
+108,Krishna Nair,CSE,B.Tech,6.57
+148,Priya Yadav,CSE,B.Tech,6.97
+600,Aadhya Kapoor,Electrical,B.Tech,8.49
+1137,Diya Chawla,Cloud Computing,BCA,9.36
+1090,Vikram Mishra,Data Analytics,BCA,8.89
+1248,Krishna Saxena,Software Dev,BCA,6.97
+701,Aarav Singh,Mechanical,B.Tech,6.50
+1024,Riya Puri,ECE,B.Tech,6.73
+890,Shaurya Rao,Civil,B.Tech,8.39
+1052,Avani Gupta,ECE,M.Tech,9.01
+1039,Ishaan Chatterjee,ECE,M.Tech,8.88
+281,Aarav Singh,CSE-AI,B.Tech,8.30
+671,Aarav Singh,Electrical,B.Tech,9.20
+246,Pooja Pathak,CSE-AI,B.Tech,7.95
+873,Ishita Gill,Civil,B.Tech,8.22
+1043,Rudrud Kapoor,ECE,M.Tech,8.92
+686,Aanya Gill,Electrical,M.Tech,7.85
+656,Aanya Chatterjee,Electrical,B.Tech,9.05
+346,Sai Jha,CSE-AIML,B.Tech,8.95
+972,Vivaan Patel,ECE,B.Tech,9.21
+593,Rudrud Choudhury,Electrical,B.Tech,8.42
+394,Riya Puri,CSE-AIML,B.Tech,9.43
+382,Ayush Saxena,CSE-AIML,B.Tech,9.31
+1255,Kabir Malhotra,Software Dev,BCA,7.04
+923,Rudrud Kapoor,Civil,M.Tech,7.72
+1048,Priya Pandey,ECE,M.Tech,8.97
+435,Arjun Tiwari,CSE-AIML,B.Tech,6.84
+1197,Diya Chawla,Cyber Security,BCA,6.46
+331,Kavya Verma,CSE-AI,M.Tech,9.30
+1282,Ayush Gill,Software Dev,MCA,9.46
+767,Reyansh Reddy,Mechanical,B.Tech,7.16
+554,Vihaan Mishra,CSE-Data Science,B.Tech,8.03
+588,Krishna Nair,Electrical,B.Tech,8.37
+813,Ishita Kumar,Mechanical,M.Tech,9.12
+371,Aarav Singh,CSE-AIML,B.Tech,9.20
+1187,Reyansh Sinha,Cyber Security,BCA,6.36
+507,Diya Mehta,CSE-Data Science,B.Tech,7.56
+812,Avani Gupta,Mechanical,M.Tech,9.11
+1166,Aanya Sharma,Cloud Computing,MCA,8.30
+806,Aanya Gill,Mechanical,M.Tech,9.05
+1040,Shaurya Mehta,ECE,M.Tech,8.89
+559,Ishaan Chatterjee,CSE-Data Science,M.Tech,9.08
+116,Aanya Chatterjee,CSE,B.Tech,6.65
+938,Amit Tiwari,Civil,M.Tech,7.87
+508,Priya Yadav,CSE-Data Science,B.Tech,7.57
+137,Reyansh Reddy,CSE,B.Tech,6.86
+377,Reyansh Reddy,CSE-AIML,B.Tech,9.26
+314,Vihaan Mishra,CSE-AI,B.Tech,8.63
+1026,Pooja Pathak,ECE,B.Tech,6.75
+781,Kavya Chawla,Mechanical,B.Tech,7.30
+525,Arjun Tiwari,CSE-Data Science,B.Tech,7.74
+739,Ishaan Joshi,Mechanical,B.Tech,6.88
+238,Priya Yadav,CSE-AI,B.Tech,7.87
+176,Aanya Chatterjee,CSE,B.Tech,7.25
+411,Aryan Sinha,CSE-AIML,B.Tech,6.60
+489,Rohan Gupta,CSE-Data Science,B.Tech,7.38
+566,Aanya Gill,CSE-Data Science,M.Tech,9.15
+1046,Aanya Gill,ECE,M.Tech,8.95
+321,Aryan Yadav,CSE-AI,M.Tech,9.20
+1259,Ananya Gill,Software Dev,BCA,7.08
+1061,Aarav Tiwari,Data Analytics,BCA,8.60
+390,Aadhya Kapoor,CSE-AIML,B.Tech,9.39
+212,Avani Gupta,CSE,M.Tech,8.11
+738,Krishna Nair,Mechanical,B.Tech,6.87
+354,Ansh Das,CSE-AIML,B.Tech,9.03
+112,Ayush Saxena,CSE,B.Tech,6.61
+115,Kabir Banerjee,CSE,B.Tech,6.64
+576,Pooja Shah,CSE-Data Science,M.Tech,9.25
+204,Ansh Chawla,CSE,M.Tech,8.03
+689,Ananya Pathak,Electrical,M.Tech,7.88
+380,Shaurya Rao,CSE-AIML,B.Tech,9.29
+771,Aryan Sinha,Mechanical,B.Tech,7.20
+505,Kabir Banerjee,CSE-Data Science,B.Tech,7.54
+859,Ishaan Joshi,Civil,B.Tech,8.08
+374,Vihaan Mishra,CSE-AIML,B.Tech,9.23
+1151,Aarav Saxena,Cloud Computing,MCA,8.15
+693,Ishita Kumar,Electrical,M.Tech,7.92
+904,Riya Puri,Civil,B.Tech,8.53
+433,Aditya Shah,CSE-AIML,B.Tech,6.82
+1273,Aditya Das,Software Dev,MCA,9.37
+335,Sneha Patel,CSE-AI,M.Tech,9.34
+1143,Ishita Sharma,Cloud Computing,BCA,9.42
+808,Priya Pandey,Mechanical,M.Tech,9.07
+1217,Reyansh Yadav,Cyber Security,MCA,8.81
+214,Riya Singh,CSE,M.Tech,8.13
+393,Ishita Gill,CSE-AIML,B.Tech,9.42
+1240,Vikram Sinha,Cyber Security,MCA,9.04
+1005,Arjun Tiwari,ECE,B.Tech,6.54
+1221,Aryan Bhasin,Cyber Security,MCA,8.85
+616,Sai Jha,Electrical,B.Tech,8.65
+466,Sai Jha,CSE-Data Science,B.Tech,7.15
+732,Vivaan Patel,Mechanical,B.Tech,6.81
+264,Ansh Das,CSE-AI,B.Tech,8.13
+695,Sneha Patel,Electrical,M.Tech,7.94
+694,Riya Singh,Electrical,M.Tech,7.93
+419,Ananya Malhotra,CSE-AIML,B.Tech,6.68
+265,Kabir Banerjee,CSE-AI,B.Tech,8.14
+235,Kabir Banerjee,CSE-AI,B.Tech,7.84
+425,Sneha Pandey,CSE-AIML,B.Tech,6.74
+901,Kavya Chawla,Civil,B.Tech,8.50
+900,Aadhya Kapoor,Civil,B.Tech,8.49
+220,Vikram Reddy,CSE,M.Tech,8.19
+683,Rudrud Kapoor,Electrical,M.Tech,7.82
+436,Sai Jha,CSE-AIML,B.Tech,6.85
+538,Priya Yadav,CSE-Data Science,B.Tech,7.87
+994,Riya Puri,ECE,B.Tech,9.43
+1297,Rahul Nair,Software Dev,MCA,9.61
+251,Aarav Singh,CSE-AI,B.Tech,8.00
+158,Amit Verma,CSE,B.Tech,7.07
+179,Ananya Malhotra,CSE,B.Tech,7.28
+1107,Diya Verma,Data Analytics,MCA,7.71
+971,Aarav Singh,ECE,B.Tech,9.20
+223,Aditya Shah,CSE-AI,B.Tech,7.72
+431,Aarav Singh,CSE-AIML,B.Tech,6.80
+1019,Ananya Malhotra,ECE,B.Tech,6.68
+696,Pooja Shah,Electrical,M.Tech,7.95
+358,Priya Yadav,CSE-AIML,B.Tech,9.07
+296,Aanya Chatterjee,CSE-AI,B.Tech,8.45
+496,Sai Jha,CSE-Data Science,B.Tech,7.45
+430,Vikram Kumar,CSE-AIML,B.Tech,6.79
+123,Ishita Gill,CSE,B.Tech,6.72
+439,Ishaan Chatterjee,CSE-AIML,M.Tech,7.88
+1288,Priya Gupta,Software Dev,MCA,9.52
+291,Aryan Sinha,CSE-AI,B.Tech,8.40
+1074,Ansh Yadav,Data Analytics,BCA,8.73
+194,Vihaan Mishra,CSE,B.Tech,7.43
+1238,Amit Joshi,Cyber Security,MCA,9.02
+864,Ansh Das,Civil,B.Tech,8.13
+988,Priya Yadav,ECE,B.Tech,9.37
+754,Riya Puri,Mechanical,B.Tech,7.03
+688,Priya Pandey,Electrical,M.Tech,7.87
+815,Sneha Patel,Mechanical,M.Tech,9.14
+606,Pooja Pathak,Electrical,B.Tech,8.55
+1177,Rahul Nair,Cloud Computing,MCA,8.41
+1130,Shaurya Das,Cloud Computing,BCA,9.29
+674,Vihaan Mishra,Electrical,B.Tech,9.23
+187,Rahul Sharma,CSE,B.Tech,7.36
+424,Riya Puri,CSE-AIML,B.Tech,6.73
+802,Ayush Malhotra,Mechanical,M.Tech,9.01
+340,Vikram Reddy,CSE-AI,M.Tech,9.39
+563,Rudrud Kapoor,CSE-Data Science,M.Tech,9.12
+240,Aadhya Kapoor,CSE-AI,B.Tech,7.89
+422,Avani Bhasin,CSE-AIML,B.Tech,6.71
+1270,Vikram Mishra,Software Dev,BCA,7.19
+979,Ishaan Joshi,ECE,B.Tech,9.28
+599,Ananya Malhotra,Electrical,B.Tech,8.48
+445,Kabir Bhasin,CSE-AIML,M.Tech,7.94
+289,Ishaan Joshi,CSE-AI,B.Tech,8.38
+592,Ayush Saxena,Electrical,B.Tech,8.41
+1278,Krishna Malhotra,Software Dev,MCA,9.42
+715,Kabir Banerjee,Mechanical,B.Tech,6.64
+448,Priya Pandey,CSE-AIML,M.Tech,7.97
+140,Shaurya Rao,CSE,B.Tech,6.89
+1199,Ananya Gill,Cyber Security,BCA,6.48
+891,Aryan Sinha,Civil,B.Tech,8.40
+1254,Ansh Yadav,Software Dev,BCA,7.03
+292,Ayush Saxena,CSE-AI,B.Tech,8.41
+285,Arjun Tiwari,CSE-AI,B.Tech,8.34
+500,Shaurya Rao,CSE-Data Science,B.Tech,7.49
+153,Ishita Gill,CSE,B.Tech,7.02
+839,Ananya Malhotra,Civil,B.Tech,7.88
+587,Reyansh Reddy,Electrical,B.Tech,8.36
+144,Ansh Das,CSE,B.Tech,6.93
+1287,Diya Verma,Software Dev,MCA,9.51
+735,Arjun Tiwari,Mechanical,B.Tech,6.84
+308,Amit Verma,CSE-AI,B.Tech,8.57
+1103,Rudrud Puri,Data Analytics,MCA,7.67
+282,Vivaan Patel,CSE-AI,B.Tech,8.31
+288,Krishna Nair,CSE-AI,B.Tech,8.37
+203,Rudrud Kapoor,CSE,M.Tech,8.02
+690,Aadhya Sharma,Electrical,M.Tech,7.89
+237,Diya Mehta,CSE-AI,B.Tech,7.86
+1216,Sai Mehta,Cyber Security,MCA,8.80
+1162,Ayush Gill,Cloud Computing,MCA,8.26
+1289,Ananya Kumar,Software Dev,MCA,9.53
+342,Vivaan Patel,CSE-AIML,B.Tech,8.91
+1163,Rudrud Puri,Cloud Computing,MCA,8.27
+536,Aanya Chatterjee,CSE-Data Science,B.Tech,7.85
+1180,Vikram Sinha,Cloud Computing,MCA,8.44
+1274,Vihaan Banerjee,Software Dev,MCA,9.38
+959,Ananya Malhotra,ECE,B.Tech,9.08
+629,Ananya Malhotra,Electrical,B.Tech,8.78
+1215,Arjun Chatterjee,Cyber Security,MCA,8.79
+254,Vihaan Mishra,CSE-AI,B.Tech,8.03
+1051,Kavya Verma,ECE,M.Tech,9.00
+810,Aadhya Sharma,Mechanical,M.Tech,9.09
+1004,Vihaan Mishra,ECE,B.Tech,6.53
+455,Sneha Patel,CSE-AIML,M.Tech,8.04
+821,Aarav Singh,Civil,B.Tech,7.70
+893,Rudrud Choudhury,Civil,B.Tech,8.42
+730,Vikram Kumar,Mechanical,B.Tech,6.79
+1211,Aarav Saxena,Cyber Security,MCA,8.75
+722,Avani Bhasin,Mechanical,B.Tech,6.71
+471,Aryan Sinha,CSE-Data Science,B.Tech,7.20
+1267,Rahul Singh,Software Dev,BCA,7.16
+831,Aryan Sinha,Civil,B.Tech,7.80
+1000,Vikram Kumar,ECE,B.Tech,9.49
+191,Aarav Singh,CSE,B.Tech,7.40
+260,Shaurya Rao,CSE-AI,B.Tech,8.09
+728,Amit Verma,Mechanical,B.Tech,6.77
+1063,Aditya Reddy,Data Analytics,BCA,8.62
+233,Rudrud Choudhury,CSE-AI,B.Tech,7.82
+234,Ansh Das,CSE-AI,B.Tech,7.83
+886,Sai Jha,Civil,B.Tech,8.35
+663,Ishita Gill,Electrical,B.Tech,9.12
+912,Vivaan Patel,Civil,B.Tech,8.61
+589,Ishaan Joshi,Electrical,B.Tech,8.38
+1300,Vikram Sinha,Software Dev,MCA,9.64
+189,Rohan Gupta,CSE,B.Tech,7.38
+736,Sai Jha,Mechanical,B.Tech,6.85
+774,Ansh Das,Mechanical,B.Tech,7.23
+1047,Diya Puri,ECE,M.Tech,8.96
+1191,Aryan Banerjee,Cyber Security,BCA,6.40
+957,Diya Mehta,ECE,B.Tech,9.06
+1298,Amit Joshi,Software Dev,MCA,9.62
+429,Rohan Gupta,CSE-AIML,B.Tech,6.78
+303,Ishita Gill,CSE-AI,B.Tech,8.52
+591,Aryan Sinha,Electrical,B.Tech,8.40
+549,Rohan Gupta,CSE-Data Science,B.Tech,7.98
+835,Kabir Banerjee,Civil,B.Tech,7.84
+1032,Vivaan Patel,ECE,B.Tech,6.81
+217,Rahul Mishra,CSE,M.Tech,8.16
+623,Rudrud Choudhury,Electrical,B.Tech,8.72
+274,Riya Puri,CSE-AI,B.Tech,8.23
+721,Kavya Chawla,Mechanical,B.Tech,6.70
+827,Reyansh Reddy,Civil,B.Tech,7.76
+311,Aarav Singh,CSE-AI,B.Tech,8.60
+869,Ananya Malhotra,Civil,B.Tech,8.18
+1230,Aadhya Singh,Cyber Security,MCA,8.94
+761,Aarav Singh,Mechanical,B.Tech,7.10
+724,Riya Puri,Mechanical,B.Tech,6.73
+461,Aarav Singh,CSE-Data Science,B.Tech,7.10
+1033,Aditya Shah,ECE,B.Tech,6.82
+1132,Ayush Chatterjee,Cloud Computing,BCA,9.31
+438,Krishna Banerjee,CSE-AIML,M.Tech,7.87
+759,Rohan Gupta,Mechanical,B.Tech,7.08
+479,Ananya Malhotra,CSE-Data Science,B.Tech,7.28
+611,Aarav Singh,Electrical,B.Tech,8.60
+1023,Ishita Gill,ECE,B.Tech,6.72
+805,Kabir Bhasin,Mechanical,M.Tech,9.04
+527,Reyansh Reddy,CSE-Data Science,B.Tech,7.76
+523,Aditya Shah,CSE-Data Science,B.Tech,7.72
+687,Diya Puri,Electrical,M.Tech,7.86
+447,Diya Puri,CSE-AIML,M.Tech,7.96
+128,Amit Verma,CSE,B.Tech,6.77
+473,Rudrud Choudhury,CSE-Data Science,B.Tech,7.22
+551,Aarav Singh,CSE-Data Science,B.Tech,8.00
+1115,Sneha Jha,Data Analytics,MCA,7.79
+1178,Amit Joshi,Cloud Computing,MCA,8.42
+612,Vivaan Patel,Electrical,B.Tech,8.61
+157,Rahul Sharma,CSE,B.Tech,7.06
+1280,Shaurya Chawla,Software Dev,MCA,9.44
+417,Diya Mehta,CSE-AIML,B.Tech,6.66
+915,Arjun Tiwari,Civil,B.Tech,8.64
+470,Shaurya Rao,CSE-Data Science,B.Tech,7.19
+1249,Ishaan Choudhury,Software Dev,BCA,6.98
+1075,Kabir Malhotra,Data Analytics,BCA,8.74
+190,Vikram Kumar,CSE,B.Tech,7.39
+1028,Amit Verma,ECE,B.Tech,6.77
+618,Krishna Nair,Electrical,B.Tech,8.67
+542,Avani Bhasin,CSE-Data Science,B.Tech,7.91
+661,Kavya Chawla,Electrical,B.Tech,9.10
+552,Vivaan Patel,CSE-Data Science,B.Tech,8.01
+332,Avani Gupta,CSE-AI,M.Tech,9.31
+792,Vivaan Patel,Mechanical,B.Tech,7.41
+793,Aditya Shah,Mechanical,B.Tech,7.42
+421,Kavya Chawla,CSE-AIML,B.Tech,6.70
+644,Vihaan Mishra,Electrical,B.Tech,8.93
+1252,Ayush Chatterjee,Software Dev,BCA,7.01
+319,Ishaan Chatterjee,CSE-AI,M.Tech,9.18
+183,Ishita Gill,CSE,B.Tech,7.32
+921,Aryan Yadav,Civil,M.Tech,7.70
+387,Diya Mehta,CSE-AIML,B.Tech,9.36
+1104,Ansh Pandey,Data Analytics,MCA,7.68
+1261,Kavya Pandey,Software Dev,BCA,7.10
+1022,Avani Bhasin,ECE,B.Tech,6.71
+947,Reyansh Reddy,ECE,B.Tech,8.96
+182,Avani Bhasin,CSE,B.Tech,7.31
+125,Sneha Pandey,CSE,B.Tech,6.74
+472,Ayush Saxena,CSE-Data Science,B.Tech,7.21
+185,Sneha Pandey,CSE,B.Tech,7.34
+270,Aadhya Kapoor,CSE-AI,B.Tech,8.19
+497,Reyansh Reddy,CSE-Data Science,B.Tech,7.46
+1015,Kabir Banerjee,ECE,B.Tech,6.64
+1013,Rudrud Choudhury,ECE,B.Tech,6.62
+452,Avani Gupta,CSE-AIML,M.Tech,8.01
+622,Ayush Saxena,Electrical,B.Tech,8.71
+1226,Aanya Sharma,Cyber Security,MCA,8.90
+1283,Rudrud Puri,Software Dev,MCA,9.47
+826,Sai Jha,Civil,B.Tech,7.75
+1129,Ishaan Choudhury,Cloud Computing,BCA,9.28
+1169,Ananya Kumar,Cloud Computing,MCA,8.33
+963,Ishita Gill,ECE,B.Tech,9.12
+1165,Kabir Pathak,Cloud Computing,MCA,8.29
+398,Amit Verma,CSE-AIML,B.Tech,9.47
+1147,Rahul Singh,Cloud Computing,BCA,9.46
+784,Riya Puri,Mechanical,B.Tech,7.33
+906,Pooja Pathak,Civil,B.Tech,8.55
+949,Ishaan Joshi,ECE,B.Tech,8.98
+509,Ananya Malhotra,CSE-Data Science,B.Tech,7.58
+788,Amit Verma,Mechanical,B.Tech,7.37
+1055,Sneha Patel,ECE,M.Tech,9.04
+442,Ayush Malhotra,CSE-AIML,M.Tech,7.91
+130,Vikram Kumar,CSE,B.Tech,6.79
+522,Vivaan Patel,CSE-Data Science,B.Tech,7.71
+1241,Aarav Tiwari,Software Dev,BCA,6.90
+941,Aarav Singh,ECE,B.Tech,8.90
+567,Diya Puri,CSE-Data Science,M.Tech,9.16
+122,Avani Bhasin,CSE,B.Tech,6.71
+597,Diya Mehta,Electrical,B.Tech,8.46
+1299,Rohan Rao,Software Dev,MCA,9.63
+980,Shaurya Rao,ECE,B.Tech,9.29
+595,Kabir Banerjee,Electrical,B.Tech,8.44
+939,Rohan Jha,Civil,M.Tech,7.88
+428,Amit Verma,CSE-AIML,B.Tech,6.77
+501,Aryan Sinha,CSE-Data Science,B.Tech,7.50
+894,Ansh Das,Civil,B.Tech,8.43
+1239,Rohan Rao,Cyber Security,MCA,9.03
+579,Rohan Jha,CSE-Data Science,M.Tech,9.28
+1210,Vikram Mishra,Cyber Security,BCA,6.59
+673,Aditya Shah,Electrical,B.Tech,9.22
+909,Rohan Gupta,Civil,B.Tech,8.58
+751,Kavya Chawla,Mechanical,B.Tech,7.00
+236,Aanya Chatterjee,CSE-AI,B.Tech,7.85
+1195,Kabir Malhotra,Cyber Security,BCA,6.44
+962,Avani Bhasin,ECE,B.Tech,9.11
+399,Rohan Gupta,CSE-AIML,B.Tech,9.48
+349,Ishaan Joshi,CSE-AIML,B.Tech,8.98
+205,Kabir Bhasin,CSE,M.Tech,8.04
+796,Sai Jha,Mechanical,B.Tech,7.45
+177,Diya Mehta,CSE,B.Tech,7.26
+807,Diya Puri,Mechanical,M.Tech,9.06
+636,Pooja Pathak,Electrical,B.Tech,8.85
+299,Ananya Malhotra,CSE-AI,B.Tech,8.48
+763,Aditya Shah,Mechanical,B.Tech,7.12
+184,Riya Puri,CSE,B.Tech,7.33
+983,Rudrud Choudhury,ECE,B.Tech,9.32
+902,Avani Bhasin,Civil,B.Tech,8.51
+1034,Vihaan Mishra,ECE,B.Tech,6.83
+841,Kavya Chawla,Civil,B.Tech,7.90
+907,Rahul Sharma,Civil,B.Tech,8.56
+416,Aanya Chatterjee,CSE-AIML,B.Tech,6.65
+1105,Kabir Pathak,Data Analytics,MCA,7.69
+1018,Priya Yadav,ECE,B.Tech,6.67
+1292,Avani Shah,Software Dev,MCA,9.56
+463,Aditya Shah,CSE-Data Science,B.Tech,7.12
+729,Rohan Gupta,Mechanical,B.Tech,6.78
+1135,Kabir Malhotra,Cloud Computing,BCA,9.34
+911,Aarav Singh,Civil,B.Tech,8.60
+944,Vihaan Mishra,ECE,B.Tech,8.93
+647,Reyansh Reddy,Electrical,B.Tech,8.96
+167,Reyansh Reddy,CSE,B.Tech,7.16
+638,Amit Verma,Electrical,B.Tech,8.87
+373,Aditya Shah,CSE-AIML,B.Tech,9.22
+1222,Ayush Gill,Cyber Security,MCA,8.86
+1038,Krishna Banerjee,ECE,M.Tech,8.87
+1003,Aditya Shah,ECE,B.Tech,6.52
+334,Riya Singh,CSE-AI,M.Tech,9.33
+605,Sneha Pandey,Electrical,B.Tech,8.54
+876,Pooja Pathak,Civil,B.Tech,8.25
+598,Priya Yadav,Electrical,B.Tech,8.47
+984,Ansh Das,ECE,B.Tech,9.33
+998,Amit Verma,ECE,B.Tech,9.47
+1266,Pooja Kumar,Software Dev,BCA,7.15
+397,Rahul Sharma,CSE-AIML,B.Tech,9.46
+457,Rahul Mishra,CSE-AIML,M.Tech,8.06
+832,Ayush Saxena,Civil,B.Tech,7.81
+252,Vivaan Patel,CSE-AI,B.Tech,8.01
+432,Vivaan Patel,CSE-AIML,B.Tech,6.81
+1164,Ansh Pandey,Cloud Computing,MCA,8.28
+287,Reyansh Reddy,CSE-AI,B.Tech,8.36
+855,Arjun Tiwari,Civil,B.Tech,8.04
+577,Rahul Mishra,CSE-Data Science,M.Tech,9.26
+195,Arjun Tiwari,CSE,B.Tech,7.44
+483,Ishita Gill,CSE-Data Science,B.Tech,7.32
+1062,Vivaan Jha,Data Analytics,BCA,8.61
+556,Sai Jha,CSE-Data Science,B.Tech,8.05
+1056,Pooja Shah,ECE,M.Tech,9.05
+541,Kavya Chawla,CSE-Data Science,B.Tech,7.90
+871,Kavya Chawla,Civil,B.Tech,8.20
+1108,Priya Gupta,Data Analytics,MCA,7.72
+1269,Rohan Shah,Software Dev,BCA,7.18
+586,Sai Jha,Electrical,B.Tech,8.35
+930,Aadhya Sharma,Civil,M.Tech,7.79
+568,Priya Pandey,CSE-Data Science,M.Tech,9.17
+106,Sai Jha,CSE,B.Tech,6.55
+388,Priya Yadav,CSE-AIML,B.Tech,9.37
+581,Aarav Singh,Electrical,B.Tech,8.30
+601,Kavya Chawla,Electrical,B.Tech,8.50
+1235,Sneha Jha,Cyber Security,MCA,8.99
+632,Avani Bhasin,Electrical,B.Tech,8.81
+370,Vikram Kumar,CSE-AIML,B.Tech,9.19
+121,Kavya Chawla,CSE,B.Tech,6.70
+225,Arjun Tiwari,CSE-AI,B.Tech,7.74
+697,Rahul Mishra,Electrical,M.Tech,7.96
+1133,Rudrud Mehta,Cloud Computing,BCA,9.32
+924,Ansh Chawla,Civil,M.Tech,7.73
+1025,Sneha Pandey,ECE,B.Tech,6.74
+1079,Ananya Gill,Data Analytics,BCA,8.78
+603,Ishita Gill,Electrical,B.Tech,8.52
+156,Pooja Pathak,CSE,B.Tech,7.05
+777,Diya Mehta,Mechanical,B.Tech,7.26
+1167,Diya Verma,Cloud Computing,MCA,8.31
+749,Ananya Malhotra,Mechanical,B.Tech,6.98
+1091,Aarav Saxena,Data Analytics,MCA,7.55
+520,Vikram Kumar,CSE-Data Science,B.Tech,7.69
+1205,Sneha Gupta,Cyber Security,BCA,6.54
+765,Arjun Tiwari,Mechanical,B.Tech,7.14
+216,Pooja Shah,CSE,M.Tech,8.15
+400,Vikram Kumar,CSE-AIML,B.Tech,9.49
+229,Ishaan Joshi,CSE-AI,B.Tech,7.78
+1160,Shaurya Chawla,Cloud Computing,MCA,8.24
+565,Kabir Bhasin,CSE-Data Science,M.Tech,9.14
+147,Diya Mehta,CSE,B.Tech,6.96
+950,Shaurya Rao,ECE,B.Tech,8.99
+206,Aanya Gill,CSE,M.Tech,8.05
+1008,Krishna Nair,ECE,B.Tech,6.57
+1258,Priya Bhasin,Software Dev,BCA,7.07
+578,Amit Tiwari,CSE-Data Science,M.Tech,9.27
+1080,Aadhya Puri,Data Analytics,BCA,8.79
+272,Avani Bhasin,CSE-AI,B.Tech,8.21
+1069,Ishaan Choudhury,Data Analytics,BCA,8.68
+631,Kavya Chawla,Electrical,B.Tech,8.80
+178,Priya Yadav,CSE,B.Tech,7.27
+737,Reyansh Reddy,Mechanical,B.Tech,6.86
+384,Ansh Das,CSE-AIML,B.Tech,9.33
+532,Ayush Saxena,CSE-Data Science,B.Tech,7.81
+948,Krishna Nair,ECE,B.Tech,8.97
+1204,Riya Verma,Cyber Security,BCA,6.53
+494,Vihaan Mishra,CSE-Data Science,B.Tech,7.43
+193,Aditya Shah,CSE,B.Tech,7.42
+482,Avani Bhasin,CSE-Data Science,B.Tech,7.31
+927,Diya Puri,Civil,M.Tech,7.76
+488,Amit Verma,CSE-Data Science,B.Tech,7.37
+504,Ansh Das,CSE-Data Science,B.Tech,7.53
+783,Ishita Gill,Mechanical,B.Tech,7.32
+259,Ishaan Joshi,CSE-AI,B.Tech,8.08
+1083,Ishita Sharma,Data Analytics,BCA,8.82
+131,Aarav Singh,CSE,B.Tech,6.80
+1119,Rohan Rao,Data Analytics,MCA,7.83
+210,Aadhya Sharma,CSE,M.Tech,8.09
+323,Rudrud Kapoor,CSE-AI,M.Tech,9.22
+476,Aanya Chatterjee,CSE-Data Science,B.Tech,7.25
+309,Rohan Gupta,CSE-AI,B.Tech,8.58
+528,Krishna Nair,CSE-Data Science,B.Tech,7.77
+454,Riya Singh,CSE-AIML,M.Tech,8.03
+714,Ansh Das,Mechanical,B.Tech,6.63
+681,Aryan Yadav,Electrical,M.Tech,7.80
+743,Rudrud Choudhury,Mechanical,B.Tech,6.92
+1084,Riya Verma,Data Analytics,BCA,8.83
+1271,Aarav Saxena,Software Dev,MCA,9.35
+139,Ishaan Joshi,CSE,B.Tech,6.88
+1068,Krishna Saxena,Data Analytics,BCA,8.67
+111,Aryan Sinha,CSE,B.Tech,6.60
+753,Ishita Gill,Mechanical,B.Tech,7.02
+1050,Aadhya Sharma,ECE,M.Tech,8.99
+262,Ayush Saxena,CSE-AI,B.Tech,8.11
+956,Aanya Chatterjee,ECE,B.Tech,9.05
+351,Aryan Sinha,CSE-AIML,B.Tech,9.00
+1049,Ananya Pathak,ECE,M.Tech,8.98
+1102,Ayush Gill,Data Analytics,MCA,7.66
+974,Vihaan Mishra,ECE,B.Tech,9.23
+1057,Rahul Mishra,ECE,M.Tech,9.06
+977,Reyansh Reddy,ECE,B.Tech,9.26
+403,Aditya Shah,CSE-AIML,B.Tech,6.52
+298,Priya Yadav,CSE-AI,B.Tech,8.47
+241,Kavya Chawla,CSE-AI,B.Tech,7.90
+705,Arjun Tiwari,Mechanical,B.Tech,6.54
+572,Avani Gupta,CSE-Data Science,M.Tech,9.21
+295,Kabir Banerjee,CSE-AI,B.Tech,8.44
+150,Aadhya Kapoor,CSE,B.Tech,6.99
+1120,Vikram Sinha,Data Analytics,MCA,7.84
+326,Aanya Gill,CSE-AI,M.Tech,9.25
+961,Kavya Chawla,ECE,B.Tech,9.10
+142,Ayush Saxena,CSE,B.Tech,6.91
+882,Vivaan Patel,Civil,B.Tech,8.31
+192,Vivaan Patel,CSE,B.Tech,7.41
+995,Sneha Pandey,ECE,B.Tech,9.44
+109,Ishaan Joshi,CSE,B.Tech,6.58
+322,Ayush Malhotra,CSE-AI,M.Tech,9.21
+1070,Shaurya Das,Data Analytics,BCA,8.69
+789,Rohan Gupta,Mechanical,B.Tech,7.38
+640,Vikram Kumar,Electrical,B.Tech,8.89
+502,Ayush Saxena,CSE-Data Science,B.Tech,7.51
+283,Aditya Shah,CSE-AI,B.Tech,8.32
+361,Kavya Chawla,CSE-AIML,B.Tech,9.10
+748,Priya Yadav,Mechanical,B.Tech,6.97
+481,Kavya Chawla,CSE-Data Science,B.Tech,7.30
+316,Sai Jha,CSE-AI,B.Tech,8.65
+1095,Arjun Chatterjee,Data Analytics,MCA,7.59
+510,Aadhya Kapoor,CSE-Data Science,B.Tech,7.59
+1245,Arjun Joshi,Software Dev,BCA,6.94
+922,Ayush Malhotra,Civil,M.Tech,7.71
+704,Vihaan Mishra,Mechanical,B.Tech,6.53
+1209,Rohan Shah,Cyber Security,BCA,6.58
+625,Kabir Banerjee,Electrical,B.Tech,8.74
+926,Aanya Gill,Civil,M.Tech,7.75
+515,Sneha Pandey,CSE-Data Science,B.Tech,7.64
+570,Aadhya Sharma,CSE-Data Science,M.Tech,9.19
+787,Rahul Sharma,Mechanical,B.Tech,7.36
+590,Shaurya Rao,Electrical,B.Tech,8.39
+186,Pooja Pathak,CSE,B.Tech,7.35
+1020,Aadhya Kapoor,ECE,B.Tech,6.69
+475,Kabir Banerjee,CSE-Data Science,B.Tech,7.24
+420,Aadhya Kapoor,CSE-AIML,B.Tech,6.69
+521,Aarav Singh,CSE-Data Science,B.Tech,7.70
+1058,Amit Tiwari,ECE,M.Tech,9.07
+149,Ananya Malhotra,CSE,B.Tech,6.98
+524,Vihaan Mishra,CSE-Data Science,B.Tech,7.73
+456,Pooja Shah,CSE-AIML,M.Tech,8.05
+1237,Rahul Nair,Cyber Security,MCA,9.01
+1277,Reyansh Yadav,Software Dev,MCA,9.41
+120,Aadhya Kapoor,CSE,B.Tech,6.69
+726,Pooja Pathak,Mechanical,B.Tech,6.75
+103,Aditya Shah,CSE,B.Tech,6.52
+604,Riya Puri,Electrical,B.Tech,8.53
+369,Rohan Gupta,CSE-AIML,B.Tech,9.18
+849,Rohan Gupta,Civil,B.Tech,7.98
+834,Ansh Das,Civil,B.Tech,7.83
+1036,Sai Jha,ECE,B.Tech,6.85
+258,Krishna Nair,CSE-AI,B.Tech,8.07
+553,Aditya Shah,CSE-Data Science,B.Tech,8.02
+1085,Sneha Gupta,Data Analytics,BCA,8.84
+809,Ananya Pathak,Mechanical,M.Tech,9.08
+676,Sai Jha,Electrical,B.Tech,9.25
+555,Arjun Tiwari,CSE-Data Science,B.Tech,8.04
+713,Rudrud Choudhury,Mechanical,B.Tech,6.62
+820,Vikram Reddy,Mechanical,M.Tech,9.19
+624,Ansh Das,Electrical,B.Tech,8.73
+960,Aadhya Kapoor,ECE,B.Tech,9.09
+1006,Sai Jha,ECE,B.Tech,6.55
+129,Rohan Gupta,CSE,B.Tech,6.78
+465,Arjun Tiwari,CSE-Data Science,B.Tech,7.14
+1156,Sai Mehta,Cloud Computing,MCA,8.20
+146,Aanya Chatterjee,CSE,B.Tech,6.95
+325,Kabir Bhasin,CSE-AI,M.Tech,9.24
+1125,Arjun Joshi,Cloud Computing,BCA,9.24
+973,Aditya Shah,ECE,B.Tech,9.22
+741,Aryan Sinha,Mechanical,B.Tech,6.90
+249,Rohan Gupta,CSE-AI,B.Tech,7.98
+426,Pooja Pathak,CSE-AIML,B.Tech,6.75
+814,Riya Singh,Mechanical,M.Tech,9.13
+1073,Rudrud Mehta,Data Analytics,BCA,8.72
+884,Vihaan Mishra,Civil,B.Tech,8.33
+651,Aryan Sinha,Electrical,B.Tech,9.00
+1096,Sai Mehta,Data Analytics,MCA,7.60
+920,Shaurya Mehta,Civil,M.Tech,7.69
+1010,Shaurya Rao,ECE,B.Tech,6.59
+324,Ansh Chawla,CSE-AI,M.Tech,9.23
+860,Shaurya Rao,Civil,B.Tech,8.09
+1253,Rudrud Mehta,Software Dev,BCA,7.02
+1295,Sneha Jha,Software Dev,MCA,9.59
+682,Ayush Malhotra,Electrical,M.Tech,7.81
+707,Reyansh Reddy,Mechanical,B.Tech,6.56
+188,Amit Verma,CSE,B.Tech,7.37
+1029,Rohan Gupta,ECE,B.Tech,6.78
+1117,Rahul Nair,Data Analytics,MCA,7.81
+1176,Pooja Reddy,Cloud Computing,MCA,8.40
+145,Kabir Banerjee,CSE,B.Tech,6.94
+294,Ansh Das,CSE-AI,B.Tech,8.43
+989,Ananya Malhotra,ECE,B.Tech,9.38
+427,Rahul Sharma,CSE-AIML,B.Tech,6.76
+378,Krishna Nair,CSE-AIML,B.Tech,9.27
+670,Vikram Kumar,Electrical,B.Tech,9.19
+747,Diya Mehta,Mechanical,B.Tech,6.96
+110,Shaurya Rao,CSE,B.Tech,6.59
+446,Aanya Gill,CSE-AIML,M.Tech,7.95
+803,Rudrud Kapoor,Mechanical,M.Tech,9.02
+853,Aditya Shah,Civil,B.Tech,8.02
+1044,Ansh Chawla,ECE,M.Tech,8.93
+685,Kabir Bhasin,Electrical,M.Tech,7.84
+404,Vihaan Mishra,CSE-AIML,B.Tech,6.53
+872,Avani Bhasin,Civil,B.Tech,8.21
+310,Vikram Kumar,CSE-AI,B.Tech,8.59
+1086,Pooja Kumar,Data Analytics,BCA,8.85
+798,Krishna Banerjee,Mechanical,M.Tech,8.97
+1171,Kavya Patel,Cloud Computing,MCA,8.35
+275,Sneha Pandey,CSE-AI,B.Tech,8.24
+573,Ishita Kumar,CSE-Data Science,M.Tech,9.22
+866,Aanya Chatterjee,Civil,B.Tech,8.15
+253,Aditya Shah,CSE-AI,B.Tech,8.02
+755,Sneha Pandey,Mechanical,B.Tech,7.04
+887,Reyansh Reddy,Civil,B.Tech,8.36
+317,Reyansh Das,CSE-AI,M.Tech,9.16
+413,Rudrud Choudhury,CSE-AIML,B.Tech,6.62
+626,Aanya Chatterjee,Electrical,B.Tech,8.75
+970,Vikram Kumar,ECE,B.Tech,9.19
+490,Vikram Kumar,CSE-Data Science,B.Tech,7.39
+1225,Kabir Pathak,Cyber Security,MCA,8.89
+232,Ayush Saxena,CSE-AI,B.Tech,7.81
+964,Riya Puri,ECE,B.Tech,9.13
+519,Rohan Gupta,CSE-Data Science,B.Tech,7.68
+969,Rohan Gupta,ECE,B.Tech,9.18
+1223,Rudrud Puri,Cyber Security,MCA,8.87
+1229,Ananya Kumar,Cyber Security,MCA,8.93
+1100,Shaurya Chawla,Data Analytics,MCA,7.64
+386,Aanya Chatterjee,CSE-AIML,B.Tech,9.35
+1159,Ishaan Kapoor,Cloud Computing,MCA,8.23
+409,Ishaan Joshi,CSE-AIML,B.Tech,6.58
+621,Aryan Sinha,Electrical,B.Tech,8.70
+680,Shaurya Mehta,Electrical,M.Tech,7.79
+239,Ananya Malhotra,CSE-AI,B.Tech,7.88
+173,Rudrud Choudhury,CSE,B.Tech,7.22
+290,Shaurya Rao,CSE-AI,B.Tech,8.39
+353,Rudrud Choudhury,CSE-AIML,B.Tech,9.02
+406,Sai Jha,CSE-AIML,B.Tech,6.55
+119,Ananya Malhotra,CSE,B.Tech,6.68
+852,Vivaan Patel,Civil,B.Tech,8.01
+366,Pooja Pathak,CSE-AIML,B.Tech,9.15
+843,Ishita Gill,Civil,B.Tech,7.92
+630,Aadhya Kapoor,Electrical,B.Tech,8.79
+1045,Kabir Bhasin,ECE,M.Tech,8.94
+698,Amit Tiwari,Electrical,M.Tech,7.97
+594,Ansh Das,Electrical,B.Tech,8.43
+981,Aryan Sinha,ECE,B.Tech,9.30
+744,Ansh Das,Mechanical,B.Tech,6.93
+958,Priya Yadav,ECE,B.Tech,9.07
+897,Diya Mehta,Civil,B.Tech,8.46
+1234,Riya Tiwari,Cyber Security,MCA,8.98
+937,Rahul Mishra,Civil,M.Tech,7.86
+699,Rohan Jha,Electrical,M.Tech,7.98
+677,Reyansh Das,Electrical,M.Tech,7.76
+786,Pooja Pathak,Mechanical,B.Tech,7.35
+1293,Ishita Mishra,Software Dev,MCA,9.57
+733,Aditya Shah,Mechanical,B.Tech,6.82
+372,Vivaan Patel,CSE-AIML,B.Tech,9.21
+799,Ishaan Chatterjee,Mechanical,M.Tech,8.98
+467,Reyansh Reddy,CSE-Data Science,B.Tech,7.16
+160,Vikram Kumar,CSE,B.Tech,7.09
+1243,Aditya Reddy,Software Dev,BCA,6.92
+1128,Krishna Saxena,Cloud Computing,BCA,9.27
+1154,Vihaan Banerjee,Cloud Computing,MCA,8.18
+659,Ananya Malhotra,Electrical,B.Tech,9.08
+151,Kavya Chawla,CSE,B.Tech,7.00
+955,Kabir Banerjee,ECE,B.Tech,9.04
+1064,Vihaan Nair,Data Analytics,BCA,8.63
+1228,Priya Gupta,Cyber Security,MCA,8.92
+1186,Sai Rao,Cyber Security,BCA,6.35
+627,Diya Mehta,Electrical,B.Tech,8.76
+284,Vihaan Mishra,CSE-AI,B.Tech,8.33
+899,Ananya Malhotra,Civil,B.Tech,8.48
+199,Ishaan Chatterjee,CSE,M.Tech,7.98
+545,Sneha Pandey,CSE-Data Science,B.Tech,7.94
+1027,Rahul Sharma,ECE,B.Tech,6.76
+1145,Sneha Gupta,Cloud Computing,BCA,9.44
+928,Priya Pandey,Civil,M.Tech,7.77
+829,Ishaan Joshi,Civil,B.Tech,7.78
+1285,Kabir Pathak,Software Dev,MCA,9.49
+257,Reyansh Reddy,CSE-AI,B.Tech,8.06
+248,Amit Verma,CSE-AI,B.Tech,7.97
+844,Riya Puri,Civil,B.Tech,7.93
+825,Arjun Tiwari,Civil,B.Tech,7.74
+766,Sai Jha,Mechanical,B.Tech,7.15
+854,Vihaan Mishra,Civil,B.Tech,8.03
+1001,Aarav Singh,ECE,B.Tech,6.50
+818,Amit Tiwari,Mechanical,M.Tech,9.17
+493,Aditya Shah,CSE-Data Science,B.Tech,7.42
+368,Amit Verma,CSE-AIML,B.Tech,9.17
+608,Amit Verma,Electrical,B.Tech,8.57
+1182,Vivaan Jha,Cyber Security,BCA,6.31
+286,Sai Jha,CSE-AI,B.Tech,8.35
+152,Avani Bhasin,CSE,B.Tech,7.01
+646,Sai Jha,Electrical,B.Tech,8.95
+857,Reyansh Reddy,Civil,B.Tech,8.06
+833,Rudrud Choudhury,Civil,B.Tech,7.82
+405,Arjun Tiwari,CSE-AIML,B.Tech,6.54
+936,Pooja Shah,Civil,M.Tech,7.85
+1149,Rohan Shah,Cloud Computing,BCA,9.48
+585,Arjun Tiwari,Electrical,B.Tech,8.34
+224,Vihaan Mishra,CSE-AI,B.Tech,7.73
+165,Arjun Tiwari,CSE,B.Tech,7.14
+1012,Ayush Saxena,ECE,B.Tech,6.61
+480,Aadhya Kapoor,CSE-Data Science,B.Tech,7.29
+785,Sneha Pandey,Mechanical,B.Tech,7.34
+1251,Aryan Banerjee,Software Dev,BCA,7.00
+996,Pooja Pathak,ECE,B.Tech,9.45
+830,Shaurya Rao,Civil,B.Tech,7.79
+850,Vikram Kumar,Civil,B.Tech,7.99
+276,Pooja Pathak,CSE-AI,B.Tech,8.25
+338,Amit Tiwari,CSE-AI,M.Tech,9.37
+757,Rahul Sharma,Mechanical,B.Tech,7.06
+1181,Aarav Tiwari,Cyber Security,BCA,6.30
+168,Krishna Nair,CSE,B.Tech,7.17
+776,Aanya Chatterjee,Mechanical,B.Tech,7.25
+720,Aadhya Kapoor,Mechanical,B.Tech,6.69
+990,Aadhya Kapoor,ECE,B.Tech,9.39
+208,Priya Pandey,CSE,M.Tech,8.07
+649,Ishaan Joshi,Electrical,B.Tech,8.98
+389,Ananya Malhotra,CSE-AIML,B.Tech,9.38
+700,Vikram Reddy,Electrical,M.Tech,7.99
+1035,Arjun Tiwari,ECE,B.Tech,6.84
+564,Ansh Chawla,CSE-Data Science,M.Tech,9.13
+745,Kabir Banerjee,Mechanical,B.Tech,6.94
+1146,Pooja Kumar,Cloud Computing,BCA,9.45
+1092,Vivaan Choudhury,Data Analytics,MCA,7.56
+742,Ayush Saxena,Mechanical,B.Tech,6.91
+1183,Aditya Reddy,Cyber Security,BCA,6.32
+306,Pooja Pathak,CSE-AI,B.Tech,8.55
+268,Priya Yadav,CSE-AI,B.Tech,8.17
+1272,Vivaan Choudhury,Software Dev,MCA,9.36
+628,Priya Yadav,Electrical,B.Tech,8.77
+198,Krishna Banerjee,CSE,M.Tech,7.97
+396,Pooja Pathak,CSE-AIML,B.Tech,9.45
+133,Aditya Shah,CSE,B.Tech,6.82
+878,Amit Verma,Civil,B.Tech,8.27
+305,Sneha Pandey,CSE-AI,B.Tech,8.54
+1113,Ishita Mishra,Data Analytics,MCA,7.77
+1116,Pooja Reddy,Data Analytics,MCA,7.80
+312,Vivaan Patel,CSE-AI,B.Tech,8.61
+513,Ishita Gill,CSE-Data Science,B.Tech,7.62
+1002,Vivaan Patel,ECE,B.Tech,6.51
+1173,Ishita Mishra,Cloud Computing,MCA,8.37
+462,Vivaan Patel,CSE-Data Science,B.Tech,7.11
+965,Sneha Pandey,ECE,B.Tech,9.14
+320,Shaurya Mehta,CSE-AI,M.Tech,9.19
+1101,Aryan Bhasin,Data Analytics,MCA,7.65
+180,Aadhya Kapoor,CSE,B.Tech,7.29
+357,Diya Mehta,CSE-AIML,B.Tech,9.06
+652,Ayush Saxena,Electrical,B.Tech,9.01
+954,Ansh Das,ECE,B.Tech,9.03
+134,Vihaan Mishra,CSE,B.Tech,6.83
+845,Sneha Pandey,Civil,B.Tech,7.94
+991,Kavya Chawla,ECE,B.Tech,9.40
+336,Pooja Shah,CSE-AI,M.Tech,9.35
+609,Rohan Gupta,Electrical,B.Tech,8.58
+278,Amit Verma,CSE-AI,B.Tech,8.27
+709,Ishaan Joshi,Mechanical,B.Tech,6.58
+828,Krishna Nair,Civil,B.Tech,7.77
+1009,Ishaan Joshi,ECE,B.Tech,6.58
+348,Krishna Nair,CSE-AIML,B.Tech,8.97
+1206,Pooja Kumar,Cyber Security,BCA,6.55
+499,Ishaan Joshi,CSE-Data Science,B.Tech,7.48
+1268,Amit Patel,Software Dev,BCA,7.17
+615,Arjun Tiwari,Electrical,B.Tech,8.64
+657,Diya Mehta,Electrical,B.Tech,9.06
+1118,Amit Joshi,Data Analytics,MCA,7.82
+1088,Amit Patel,Data Analytics,BCA,8.87
+574,Riya Singh,CSE-Data Science,M.Tech,9.23
+643,Aditya Shah,Electrical,B.Tech,8.92
+468,Krishna Nair,CSE-Data Science,B.Tech,7.17
+1291,Kavya Patel,Software Dev,MCA,9.55
+243,Ishita Gill,CSE-AI,B.Tech,7.92
+1198,Priya Bhasin,Cyber Security,BCA,6.47
+889,Ishaan Joshi,Civil,B.Tech,8.38
+245,Sneha Pandey,CSE-AI,B.Tech,7.94
+750,Aadhya Kapoor,Mechanical,B.Tech,6.99
+1185,Arjun Joshi,Cyber Security,BCA,6.34
+231,Aryan Sinha,CSE-AI,B.Tech,7.80
+1142,Avani Pathak,Cloud Computing,BCA,9.41
+746,Aanya Chatterjee,Mechanical,B.Tech,6.95
+822,Vivaan Patel,Civil,B.Tech,7.71
+879,Rohan Gupta,Civil,B.Tech,8.28
+817,Rahul Mishra,Mechanical,M.Tech,9.16
+375,Arjun Tiwari,CSE-AIML,B.Tech,9.24
+892,Ayush Saxena,Civil,B.Tech,8.41
+986,Aanya Chatterjee,ECE,B.Tech,9.35
+940,Vikram Reddy,Civil,M.Tech,7.89
+440,Shaurya Mehta,CSE-AIML,M.Tech,7.89
+758,Amit Verma,Mechanical,B.Tech,7.07
+795,Arjun Tiwari,Mechanical,B.Tech,7.44
+175,Kabir Banerjee,CSE,B.Tech,7.24
+437,Reyansh Das,CSE-AIML,M.Tech,7.86
+620,Shaurya Rao,Electrical,B.Tech,8.69
+418,Priya Yadav,CSE-AIML,B.Tech,6.67
+718,Priya Yadav,Mechanical,B.Tech,6.67
+526,Sai Jha,CSE-Data Science,B.Tech,7.75
+910,Vikram Kumar,Civil,B.Tech,8.59
+492,Vivaan Patel,CSE-Data Science,B.Tech,7.41
+1042,Ayush Malhotra,ECE,M.Tech,8.91
+1257,Diya Chawla,Software Dev,BCA,7.06
+1011,Aryan Sinha,ECE,B.Tech,6.60
+641,Aarav Singh,Electrical,B.Tech,8.90
+1152,Vivaan Choudhury,Cloud Computing,MCA,8.16
+895,Kabir Banerjee,Civil,B.Tech,8.44
+261,Aryan Sinha,CSE-AI,B.Tech,8.10
+1263,Ishita Sharma,Software Dev,BCA,7.12
+664,Riya Puri,Electrical,B.Tech,9.13
+978,Krishna Nair,ECE,B.Tech,9.27
+1131,Aryan Banerjee,Cloud Computing,BCA,9.30
+300,Aadhya Kapoor,CSE-AI,B.Tech,8.49
+1144,Riya Verma,Cloud Computing,BCA,9.43
+341,Aarav Singh,CSE-AIML,B.Tech,8.90
+345,Arjun Tiwari,CSE-AIML,B.Tech,8.94
+367,Rahul Sharma,CSE-AIML,B.Tech,9.16
+968,Amit Verma,ECE,B.Tech,9.17
+1250,Shaurya Das,Software Dev,BCA,6.99
+1114,Riya Tiwari,Data Analytics,MCA,7.78
+1232,Avani Shah,Cyber Security,MCA,8.96
+903,Ishita Gill,Civil,B.Tech,8.52
+583,Aditya Shah,Electrical,B.Tech,8.32
+756,Pooja Pathak,Mechanical,B.Tech,7.05
+925,Kabir Bhasin,Civil,M.Tech,7.74
+997,Rahul Sharma,ECE,B.Tech,9.46
+1030,Vikram Kumar,ECE,B.Tech,6.79
+535,Kabir Banerjee,CSE-Data Science,B.Tech,7.84
+975,Arjun Tiwari,ECE,B.Tech,9.24
+359,Ananya Malhotra,CSE-AIML,B.Tech,9.08
+1017,Diya Mehta,ECE,B.Tech,6.66
+533,Rudrud Choudhury,CSE-Data Science,B.Tech,7.82
+449,Ananya Pathak,CSE-AIML,M.Tech,7.98
+197,Reyansh Das,CSE,M.Tech,7.96
+415,Kabir Banerjee,CSE-AIML,B.Tech,6.64
+811,Kavya Verma,Mechanical,M.Tech,9.10
+602,Avani Bhasin,Electrical,B.Tech,8.51
+782,Avani Bhasin,Mechanical,B.Tech,7.31
+1059,Rohan Jha,ECE,M.Tech,9.08
+560,Shaurya Mehta,CSE-Data Science,M.Tech,9.09
+837,Diya Mehta,Civil,B.Tech,7.86
+107,Reyansh Reddy,CSE,B.Tech,6.56
+1066,Sai Rao,Data Analytics,BCA,8.65
+993,Ishita Gill,ECE,B.Tech,9.42
+550,Vikram Kumar,CSE-Data Science,B.Tech,7.99
+1188,Krishna Saxena,Cyber Security,BCA,6.37
+402,Vivaan Patel,CSE-AIML,B.Tech,6.51
+769,Ishaan Joshi,Mechanical,B.Tech,7.18
+778,Priya Yadav,Mechanical,B.Tech,7.27
+143,Rudrud Choudhury,CSE,B.Tech,6.92
+1122,Vivaan Jha,Cloud Computing,BCA,9.21
+987,Diya Mehta,ECE,B.Tech,9.36
+880,Vikram Kumar,Civil,B.Tech,8.29
+711,Aryan Sinha,Mechanical,B.Tech,6.60
+1093,Aditya Das,Data Analytics,MCA,7.57
+124,Riya Puri,CSE,B.Tech,6.73
+914,Vihaan Mishra,Civil,B.Tech,8.63
+344,Vihaan Mishra,CSE-AIML,B.Tech,8.93
+215,Sneha Patel,CSE,M.Tech,8.14
+582,Vivaan Patel,Electrical,B.Tech,8.31
+255,Arjun Tiwari,CSE-AI,B.Tech,8.04
+105,Arjun Tiwari,CSE,B.Tech,6.54
+712,Ayush Saxena,Mechanical,B.Tech,6.61
+451,Kavya Verma,CSE-AIML,M.Tech,8.00
+477,Diya Mehta,CSE-Data Science,B.Tech,7.26
+727,Rahul Sharma,Mechanical,B.Tech,6.76
+226,Sai Jha,CSE-AI,B.Tech,7.75
+634,Riya Puri,Electrical,B.Tech,8.83
+1193,Rudrud Mehta,Cyber Security,BCA,6.42
+1109,Ananya Kumar,Data Analytics,MCA,7.73
+801,Aryan Yadav,Mechanical,M.Tech,9.00
+247,Rahul Sharma,CSE-AI,B.Tech,7.96
+1219,Ishaan Kapoor,Cyber Security,MCA,8.83
+271,Kavya Chawla,CSE-AI,B.Tech,8.20
+269,Ananya Malhotra,CSE-AI,B.Tech,8.18
+1087,Rahul Singh,Data Analytics,BCA,8.86
+851,Aarav Singh,Civil,B.Tech,8.00
+544,Riya Puri,CSE-Data Science,B.Tech,7.93
+935,Sneha Patel,Civil,M.Tech,7.84
+1054,Riya Singh,ECE,M.Tech,9.03
+1140,Aadhya Puri,Cloud Computing,BCA,9.39
+1110,Aadhya Singh,Data Analytics,MCA,7.74
+875,Sneha Pandey,Civil,B.Tech,8.24
+330,Aadhya Sharma,CSE-AI,M.Tech,9.29
+1089,Rohan Shah,Data Analytics,BCA,8.88
+908,Amit Verma,Civil,B.Tech,8.57
+1172,Avani Shah,Cloud Computing,MCA,8.36
+1138,Priya Bhasin,Cloud Computing,BCA,9.37
+1281,Aryan Bhasin,Software Dev,MCA,9.45
+931,Kavya Verma,Civil,M.Tech,7.80
+642,Vivaan Patel,Electrical,B.Tech,8.91
+770,Shaurya Rao,Mechanical,B.Tech,7.19
+946,Sai Jha,ECE,B.Tech,8.95
+856,Sai Jha,Civil,B.Tech,8.05
+161,Aarav Singh,CSE,B.Tech,7.10
+877,Rahul Sharma,Civil,B.Tech,8.26
+337,Rahul Mishra,CSE-AI,M.Tech,9.36
+517,Rahul Sharma,CSE-Data Science,B.Tech,7.66
+976,Sai Jha,ECE,B.Tech,9.25
+1246,Sai Rao,Software Dev,BCA,6.95
+1196,Aanya Kapoor,Cyber Security,BCA,6.45
+1077,Diya Chawla,Data Analytics,BCA,8.76
+250,Vikram Kumar,CSE-AI,B.Tech,7.99
+518,Amit Verma,CSE-Data Science,B.Tech,7.67
+1081,Kavya Pandey,Data Analytics,BCA,8.80
+412,Ayush Saxena,CSE-AIML,B.Tech,6.61
+1141,Kavya Pandey,Cloud Computing,BCA,9.40
+1161,Aryan Bhasin,Cloud Computing,MCA,8.25
+1208,Amit Patel,Cyber Security,BCA,6.57
+213,Ishita Kumar,CSE,M.Tech,8.12
+848,Amit Verma,Civil,B.Tech,7.97
+304,Riya Puri,CSE-AI,B.Tech,8.53
+459,Rohan Jha,CSE-AIML,M.Tech,8.08
+1098,Krishna Malhotra,Data Analytics,MCA,7.62
+484,Riya Puri,CSE-Data Science,B.Tech,7.33
+797,Reyansh Das,Mechanical,M.Tech,8.96
+534,Ansh Das,CSE-Data Science,B.Tech,7.83
+280,Vikram Kumar,CSE-AI,B.Tech,8.29
+896,Aanya Chatterjee,Civil,B.Tech,8.45
+1190,Shaurya Das,Cyber Security,BCA,6.39
+932,Avani Gupta,Civil,M.Tech,7.81
+791,Aarav Singh,Mechanical,B.Tech,7.40
+1153,Aditya Das,Cloud Computing,MCA,8.17
+672,Vivaan Patel,Electrical,B.Tech,9.21
+951,Aryan Sinha,ECE,B.Tech,9.00
+1123,Aditya Reddy,Cloud Computing,BCA,9.22
+861,Aryan Sinha,Civil,B.Tech,8.10
+443,Rudrud Kapoor,CSE-AIML,M.Tech,7.92
+379,Ishaan Joshi,CSE-AIML,B.Tech,9.28
+101,Aarav Singh,CSE,B.Tech,6.50
+302,Avani Bhasin,CSE-AI,B.Tech,8.51
+1097,Reyansh Yadav,Data Analytics,MCA,7.61
+381,Aryan Sinha,CSE-AIML,B.Tech,9.30
+1227,Diya Verma,Cyber Security,MCA,8.91
+1175,Sneha Jha,Cloud Computing,MCA,8.39
+1099,Ishaan Kapoor,Data Analytics,MCA,7.63
+327,Diya Puri,CSE-AI,M.Tech,9.26
+364,Riya Puri,CSE-AIML,B.Tech,9.13
+1037,Reyansh Das,ECE,M.Tech,8.86
+1276,Sai Mehta,Software Dev,MCA,9.40
+1014,Ansh Das,ECE,B.Tech,6.63
+929,Ananya Pathak,Civil,M.Tech,7.78
+1065,Arjun Joshi,Data Analytics,BCA,8.64
+313,Aditya Shah,CSE-AI,B.Tech,8.62
+800,Shaurya Mehta,Mechanical,M.Tech,8.99
+684,Ansh Chawla,Electrical,M.Tech,7.83
+655,Kabir Banerjee,Electrical,B.Tech,9.04
+823,Aditya Shah,Civil,B.Tech,7.72
+999,Rohan Gupta,ECE,B.Tech,9.48
+635,Sneha Pandey,Electrical,B.Tech,8.84
+1184,Vihaan Nair,Cyber Security,BCA,6.33
+227,Reyansh Reddy,CSE-AI,B.Tech,7.76
+329,Ananya Pathak,CSE-AI,M.Tech,9.28
+934,Riya Singh,Civil,M.Tech,7.83
+297,Diya Mehta,CSE-AI,B.Tech,8.46
+613,Aditya Shah,Electrical,B.Tech,8.62
+913,Aditya Shah,Civil,B.Tech,8.62
+794,Vihaan Mishra,Mechanical,B.Tech,7.43
+658,Priya Yadav,Electrical,B.Tech,9.07
+539,Ananya Malhotra,CSE-Data Science,B.Tech,7.88
+1148,Amit Patel,Cloud Computing,BCA,9.47
+211,Kavya Verma,CSE,M.Tech,8.10
+1112,Avani Shah,Data Analytics,MCA,7.76
+163,Aditya Shah,CSE,B.Tech,7.12
+172,Ayush Saxena,CSE,B.Tech,7.21
+408,Krishna Nair,CSE-AIML,B.Tech,6.57
+495,Arjun Tiwari,CSE-Data Science,B.Tech,7.44
+263,Rudrud Choudhury,CSE-AI,B.Tech,8.12
+363,Ishita Gill,CSE-AIML,B.Tech,9.12
+498,Krishna Nair,CSE-Data Science,B.Tech,7.47
+883,Aditya Shah,Civil,B.Tech,8.32
+716,Aanya Chatterjee,Mechanical,B.Tech,6.65
+1264,Riya Verma,Software Dev,BCA,7.13
+654,Ansh Das,Electrical,B.Tech,9.03
+315,Arjun Tiwari,CSE-AI,B.Tech,8.64
+918,Krishna Banerjee,Civil,M.Tech,7.67
+569,Ananya Pathak,CSE-Data Science,M.Tech,9.18
+734,Vihaan Mishra,Mechanical,B.Tech,6.83
+780,Aadhya Kapoor,Mechanical,B.Tech,7.29
+1294,Riya Tiwari,Software Dev,MCA,9.58
+1094,Vihaan Banerjee,Data Analytics,MCA,7.58
+1076,Aanya Kapoor,Data Analytics,BCA,8.75
+775,Kabir Banerjee,Mechanical,B.Tech,7.24
+104,Vihaan Mishra,CSE,B.Tech,6.53
+1236,Pooja Reddy,Cyber Security,MCA,9.00
+343,Aditya Shah,CSE-AIML,B.Tech,8.92
+136,Sai Jha,CSE,B.Tech,6.85
+870,Aadhya Kapoor,Civil,B.Tech,8.19
+410,Shaurya Rao,CSE-AIML,B.Tech,6.59
+645,Arjun Tiwari,Electrical,B.Tech,8.94
+423,Ishita Gill,CSE-AIML,B.Tech,6.72
+256,Sai Jha,CSE-AI,B.Tech,8.05
+503,Rudrud Choudhury,CSE-Data Science,B.Tech,7.52
+917,Reyansh Das,Civil,M.Tech,7.66
+580,Vikram Reddy,CSE-Data Science,M.Tech,9.29
+113,Rudrud Choudhury,CSE,B.Tech,6.62
+491,Aarav Singh,CSE-Data Science,B.Tech,7.40
+824,Vihaan Mishra,Civil,B.Tech,7.73
+512,Avani Bhasin,CSE-Data Science,B.Tech,7.61
+267,Diya Mehta,CSE-AI,B.Tech,8.16
+610,Vikram Kumar,Electrical,B.Tech,8.59
+1157,Reyansh Yadav,Cloud Computing,MCA,8.21
+126,Pooja Pathak,CSE,B.Tech,6.75
+703,Aditya Shah,Mechanical,B.Tech,6.52
+132,Vivaan Patel,CSE,B.Tech,6.81
+967,Rahul Sharma,ECE,B.Tech,9.16
+1214,Vihaan Banerjee,Cyber Security,MCA,8.78
+666,Pooja Pathak,Electrical,B.Tech,9.15
+675,Arjun Tiwari,Electrical,B.Tech,9.24
+1233,Ishita Mishra,Cyber Security,MCA,8.97
+516,Pooja Pathak,CSE-Data Science,B.Tech,7.65
+464,Vihaan Mishra,CSE-Data Science,B.Tech,7.13
+1242,Vivaan Jha,Software Dev,BCA,6.91
+858,Krishna Nair,Civil,B.Tech,8.07
+1203,Ishita Sharma,Cyber Security,BCA,6.52
+221,Aarav Singh,CSE-AI,B.Tech,7.70
+531,Aryan Sinha,CSE-Data Science,B.Tech,7.80
+933,Ishita Kumar,Civil,M.Tech,7.82
+333,Ishita Kumar,CSE-AI,M.Tech,9.32
+1139,Ananya Gill,Cloud Computing,BCA,9.38
+196,Sai Jha,CSE,B.Tech,7.45
+731,Aarav Singh,Mechanical,B.Tech,6.80
+376,Sai Jha,CSE-AIML,B.Tech,9.25
+169,Ishaan Joshi,CSE,B.Tech,7.18
+181,Kavya Chawla,CSE,B.Tech,7.30
